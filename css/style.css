@@ -3040,6 +3040,12 @@ body.darkV .footerContainer .footer__items .footerWidgetLeft .widgetContList .fo
         border-right: 1px solid var(--gray-dark);
 
 }
+
+body.darkV .footerContainer .footer__items .footerWidgetLeft .widgetContList .footer__block:last-child {
+    border: 0;
+}
+
+
 body.darkV  .footerContainer .footer__items .footerWidgetLeft .widgetContList .footer__block:nth-child(3){
            border-left: 1px solid var(--gray-dark);
  
