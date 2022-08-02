@@ -2870,14 +2870,14 @@ body.darkV .page-content .article__section .body-text h2{
 }
 
  body.darkV  .nav-links{
-        border: 1px #505050 solid;
+        border: 0px;
         border-radius: 6px;
 
  }
  
  
   body.darkV  .nav-links .nav-previous .nav-link-text,  body.darkV .nav-links .nav-next .nav-link-text{
-            border-bottom: 0px;
+            border-bottom: 1px #505050 solid;
       color: white;
 
   }
