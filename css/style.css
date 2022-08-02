@@ -1,7 +1,5 @@
 /*Global CSS Start*/
 /*
-font-family: 'Awras-Mhidi';
-fw900
 
 header bottom 
 background-color: #1414b1;
@@ -10,7 +8,6 @@ header top
 background-color: #0e0e77;
 
 
-font-family: 'Awras-Emir';
 */
 
 
@@ -3027,7 +3024,7 @@ body.darkV .author-page-header .auther-box .media-body .post-number{
 
 /* section footer dark */
 body.darkV .footerContainer{
-    background-color: #000000 !important;
+    background-color: #313030 !important;
 
 }
 
@@ -3050,17 +3047,19 @@ body.darkV  .footerContainer .footer__items .footerWidgetLeft .widgetContList .f
 
 
 body.darkV .footerContainer .footerWidgetRight .widgetContList .footer__block:nth-child(3) p{
-    color: var(--wp--preset--color--cyan-bluish-gray);
+      color: #a5a5a5;
+
 
 }
 body.darkV .footerContainer .footerWidgetRight .widgetContList .footer__block:nth-child(2) a{
-    color: var(--wp--preset--color--cyan-bluish-gray);
+        color: #a5a5a5;
+
    
 }
 
 
 body.darkV .footer__items .footerWidgetLeft .widgetContList .footer__block a{
-    color: var(--wp--preset--color--cyan-bluish-gray) !important;
+    color: #a5a5a5;
 
 }
 
