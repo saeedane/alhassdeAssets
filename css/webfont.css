@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Awras-Emir';
+    src: url('../web-fonts/Awras-Emir.woff2') format('woff2'),
+        url('../web-fonts/Awras-Emir.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Awras-Emir';
+    src: url('../web-fonts/Awras-Emir.woff2') format('woff2'),
+        url('../web-fonts/Awras-Emir.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Awras-Mhidi';
+    src: url('../web-fonts/KufyanArabic-Black.woff2') format('woff2'),
+        url('../web-fonts/KufyanArabic-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Awras-Mhidi';
+    src: url('../web-fonts/KufyanArabic-Black.woff2') format('woff2'),
+        url('../web-fonts/KufyanArabic-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'sadan-toshiba';
+    src:url('../web-fonts/Kalligraaf_Arabic_Regular.woff')format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+ 
+}
+
+@font-face {
+    font-family: 'IBMPlexSansArabicM';
+    src:url('../web-fonts/IBMPlexSansArabic-Medium.woff')format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+ 
+}
+
+@font-face {
+    font-family: 'IBMPlexSansArabicR';
+    src:url('../web-fonts/IBMPlexSansArabic-Regular.woff')format('woff');
+    font-style: normal;
+    font-display: swap;
+ 
+}
+
+@font-face {
+    font-family: 'alhassade';
+    src:url('../web-fonts/alarabiyaBoutros2020-Bold.woff2')format('woff2');
+    font-style: normal;
+    font-display: swap;
+ 
+}
+
