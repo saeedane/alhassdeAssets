@@ -1,5 +1,5 @@
 jQuery(document).ready(function(){
-
+var page = 1;
 jQuery('.spinner-border').hide();
 jQuery('#alhassade_loadmore').on('click',function(e){
     e.preventDefault();
@@ -14,7 +14,7 @@ var category =  jQuery(this).attr('data-category');
 
 jQuery.post(frontendajax.ajaxurl,data, function(response) {
       if(jQuery.trim(response) != '' ) {
-            frontendajax.current_page++;
+            page++;
 
            jQuery('.article__list,.archiveContList ').append(response);
           jQuery('#alhassade_loadmore').show();
