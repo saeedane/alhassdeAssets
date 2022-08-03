@@ -43,7 +43,7 @@ jQuery(document).ready(function(){
         var value = jQuery(this).val();
 
 	    
-	var data = {'action':'alhassade_live_search','query':value};
+	var data = {'action':'alhassade_live_search','query':value,'post_type':'bfd_download'};
 
 
     jQuery.post(frontendajax.ajaxurl,data, function(response) {
@@ -152,3 +152,59 @@ jQuery(document).ready(function(){
     });
 });
 
+    
+/**
+ *  sort option 
+ */    
+
+
+      /**
+ * http://stackoverflow.com/a/10997390/11236
+ */
+function updateURLParameter(url, param, paramVal){
+    var newAdditionalURL = "";
+    var tempArray = url.split("?");
+    var baseURL = tempArray[0];
+    var additionalURL = tempArray[1];
+    var temp = "";
+    if (additionalURL) {
+        tempArray = additionalURL.split("&");
+        for (var i=0; i<tempArray.length; i++){
+            if(tempArray[i].split('=')[0] != param){
+                newAdditionalURL += temp + tempArray[i];
+                temp = "&";
+            }
+        }
+    }
+
+    var rows_txt = temp + "" + param + "=" + paramVal;
+    return baseURL + "?" + newAdditionalURL + rows_txt;
+}
+
+
+   jQuery("#search-sort-option").change(function() {
+        var optionValue = $(this).val();
+        window.history.replaceState('', '', updateURLParameter(window.location.href, "sort", optionValue));
+
+        const value = jQuery('#d-search').attr('data-search-value');
+
+    var data = {'action':'alhassade_live_search','query':value,'option' :optionValue,'post_type' : 'post' };
+
+
+    jQuery.post(frontendajax.ajaxurl,data, function(response) {
+        
+      if(jQuery.trim(response) != '' ) {
+           jQuery('.archiveContList ').html(response);
+       }else{
+          jQuery('.archiveContList ').html('');
+   
+       }
+           
+           
+       });
+
+
+        
+});
+      
+      
