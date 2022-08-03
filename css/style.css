@@ -364,9 +364,11 @@ display: block;
 }
 
 .header-bottom .header_search{
-     height: 65px;
-    margin-top: 23px;
-        display: none;
+position: absolute;
+    left: 180px;
+    height: 100%;
+    align-items: center;
+    display: flex !important;
 
 }
 

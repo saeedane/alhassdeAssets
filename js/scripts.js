@@ -34,7 +34,7 @@ $('.close_menu').on('click',function(){
 /* show search on menu */
   
 $('.search_menu').on('click',function(){
-	$('.header-bottom .header_search').toggleClass("d-block");
+	$('.header-bottom .header_search .desktop_search').toggleClass("d-block");
   document.getElementById("search").focus();
 		
 });
