@@ -1166,11 +1166,6 @@ display: flex;
 
 } 
 
-.MostViewsContainer .items .element .news-left ul li:first-child{
-    border-right: 5px solid#c61c20;
-    padding-right: 5px;
-
-}
 
 .MostViewsContainer .items .element .news-left ul li:last-child{
     margin: 0px auto 0px 5px;
@@ -1844,7 +1839,7 @@ font-size: 27px;
     background-size: 13px 20px;
     margin-right: 5px;
     margin-top: 4px;
-    
+
 
 
 }
