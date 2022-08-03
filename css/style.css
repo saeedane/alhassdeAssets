@@ -1264,14 +1264,17 @@ margin-top: 15px;
 
 
 .archive__header {
-        border-radius: 5px;
+      
+          height: 200px;
+        margin-bottom: 20px;
+    display: grid;
+    align-items: center;
+
 
 }
-.archive__header .archive__logo {
-    text-align: center;
-        margin-bottom: -15px;
 
-}
+
+
 
 
 .breadcrumb{
@@ -3122,6 +3125,14 @@ body.darkV .footerContainer .nav-link{
 		display:none;
 	}
 	
+
+/* archive header  */
+.archive__header{
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+
 	/* newsWithSidebar */ 
 	
 
