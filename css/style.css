@@ -369,6 +369,8 @@ position: absolute;
     height: 100%;
     align-items: center;
     display: flex !important;
+        bottom: 7px;
+    z-index: 1;
 
 }
 
