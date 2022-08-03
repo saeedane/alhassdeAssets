@@ -1,5 +1,5 @@
 jQuery(document).ready(function(){
-var page = 1;
+var page = 2;
 jQuery('.spinner-border').hide();
 jQuery('#alhassade_loadmore').on('click',function(e){
     e.preventDefault();
