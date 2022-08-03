@@ -422,6 +422,9 @@ body.darkV .header-bottom .header_search .desktop_search form#mobileSearch{
 
 .page-search .summary__query{
     margin-left: auto;
+        font-size: 23px;
+    font-family: 'alhassade';
+    color: black;
 
 }
 

@@ -151,3 +151,13 @@ jQuery(document).ready(function(){
         .open();
     });
 });
+
+/**
+ * select option order 
+ */    
+
+$(document).ready(function() {
+    $('#search-sort-option').on('change', function() {
+        this.form.submit();
+    });
+});
