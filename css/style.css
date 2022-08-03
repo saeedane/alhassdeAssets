@@ -1269,7 +1269,8 @@ margin-top: 15px;
         margin-bottom: 20px;
     display: grid;
     align-items: center;
-
+background-repeat: no-repeat;
+    background-size: cover;
 
 }
 
