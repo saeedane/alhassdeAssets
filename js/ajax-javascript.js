@@ -14,6 +14,8 @@ var category =  jQuery(this).attr('data-category');
 
 jQuery.post(frontendajax.ajaxurl,data, function(response) {
       if(jQuery.trim(response) != '' ) {
+            frontendajax.current_page++;
+
            jQuery('.article__list,.archiveContList ').append(response);
           jQuery('#alhassade_loadmore').show();
           jQuery('.loading-archive').hide();
