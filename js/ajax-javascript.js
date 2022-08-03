@@ -152,12 +152,3 @@ jQuery(document).ready(function(){
     });
 });
 
-/**
- * select option order 
- */    
-
-jQuery(document).ready(function() {
-    jQuery('#search-sort-option').on('change', function() {
-        this.form.submit();
-    });
-});
