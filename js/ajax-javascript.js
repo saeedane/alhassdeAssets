@@ -156,8 +156,8 @@ jQuery(document).ready(function(){
  * select option order 
  */    
 
-$(document).ready(function() {
-    $('#search-sort-option').on('change', function() {
+jQuery(document).ready(function() {
+    jQuery('#search-sort-option').on('change', function() {
         this.form.submit();
     });
 });
