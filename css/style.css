@@ -410,6 +410,33 @@ body.darkV .header-bottom .header_search .desktop_search form#mobileSearch{
 
 /* page search */
 
+
+/* search inside  */
+.page-search .search-summary{
+     display: flex;
+    align-items: center;
+    border-bottom: 1px solid#ddd;
+    padding: 10px 0;
+    margin-bottom: 20px;   
+}
+
+.page-search .summary__query{
+    margin-left: auto;
+
+}
+
+
+.page-search .search-summary__options{
+    display: flex;
+
+}
+
+.page-search .search-summary__options-title{
+   padding-left: 10px;
+
+
+}
+
 .widgetSideTitle {
     margin-bottom:20px;
     display:flex;
