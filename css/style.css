@@ -401,6 +401,12 @@ position: absolute;
 
 
 
+body.darkV .header-bottom .header_search .desktop_search form#mobileSearch{
+        background: #000000;
+    border: 1px solid#000000;
+
+}
+
 
 /* page search */
 
