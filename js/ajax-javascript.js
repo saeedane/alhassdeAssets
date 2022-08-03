@@ -1,20 +1,20 @@
 jQuery(document).ready(function(){
-var page = 1;
+
 jQuery('.spinner-border').hide();
 jQuery('#alhassade_loadmore').on('click',function(e){
     e.preventDefault();
 var postType =  jQuery(this).attr('data-post-type');
 var category =  jQuery(this).attr('data-category');
-
+var page  = 1;
     
-    var data = {'action':'alhassade_archives_load_more','category' : category,'page':frontendajax.current_page,'postType':postType};
+    var data = {'action':'alhassade_archives_load_more','category' : category,'page':page,'postType':postType};
       jQuery('.loading-archive').show();
       jQuery('#alhassade_loadmore').hide();
       
 
 jQuery.post(frontendajax.ajaxurl,data, function(response) {
       if(jQuery.trim(response) != '' ) {
-            page++;
+                  page++;
 
            jQuery('.article__list,.archiveContList ').append(response);
           jQuery('#alhassade_loadmore').show();
