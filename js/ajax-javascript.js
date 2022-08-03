@@ -4,9 +4,10 @@ jQuery('.spinner-border').hide();
 jQuery('#alhassade_loadmore').on('click',function(e){
     e.preventDefault();
 var postType =  jQuery(this).attr('data-post-type');
+var category =  jQuery(this).attr('data-category');
 
-
-    var data = {'action':'alhassade_archives_load_more','page':page,'postType':postType};
+    
+    var data = {'action':'alhassade_archives_load_more','category' : category,'page':page,'postType':postType};
       jQuery('.loading-archive').show();
       jQuery('#alhassade_loadmore').hide();
       
