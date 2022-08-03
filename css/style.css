@@ -372,6 +372,10 @@ position: absolute;
 
 }
 
+.header-bottom .header_search .desktop_search{
+    display: none;
+}
+
 /* page search */
 
 .widgetSideTitle {
