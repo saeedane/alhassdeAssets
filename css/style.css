@@ -3710,7 +3710,7 @@ width: 136px;
 
 /* animation css  */
 
-button{
+.btn{
   position:relative;
   overflow:hidden;
   margin-top:100px;
