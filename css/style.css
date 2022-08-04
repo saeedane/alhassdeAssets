@@ -1652,6 +1652,8 @@ ul.shareThis {
 
 .category-newspaper .mobile_search {
         display: flex;
+            border: 1px solid #ececec;
+
 }
 
 .category-newspaper  #search{
@@ -3782,7 +3784,6 @@ width: 136px;
 .category-newspaper .mobile_search{
     width:100%;
     margin:0px;
-    border: 1px solid #ececec;
 
 }
 
