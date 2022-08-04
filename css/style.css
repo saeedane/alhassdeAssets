@@ -3048,7 +3048,7 @@ body.darkV .comentsArea .header__comment .comment-summary__select label{
 body.darkV .comentsArea .header__comment .comment-summary__select select{
         background: #262626;
     color: #adadad;
-        border: 0;
+    border: 1px solid#262626;
 
 }
 
