@@ -1751,7 +1751,7 @@ font-size: 27px;
 }
 
 
-body.darkV .widgetSideTitle{
+body.darkV .widgetSideTitle h2{
     color: #ffffff;
         border-bottom: 1px solid #313030;
 
