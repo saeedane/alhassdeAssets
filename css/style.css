@@ -1756,7 +1756,7 @@ body.darkV .widgetSideTitle{
 
 body.darkV .widgetSideTitle h2{
     color: #ffffff;
-    
+
 
 }
 
@@ -1765,6 +1765,11 @@ body.darkV .category-newspaper .widgetSideTitle h2:before{
 
 }
 
+
+body.darkV .btn-download{
+        box-shadow: none;
+
+}
 
 .archive__container   .page-item.disabled .page-link,.category-newspaper  .page-item.disabled .page-link{
     background-color: #000 !important;
