@@ -311,7 +311,7 @@ img[data-src][src] {
 
 .bg-img {
 display: block;
-    width: 100%!important;
+    max-width: 100%!important;
     -o-object-fit: cover;
     object-fit: cover;
     position: relative;
@@ -1625,7 +1625,9 @@ ul.shareThis {
     margin-left: 34px;
 }
 
-
+.category-video .article__list .article__item:first-child{
+    margin: 0px;
+}
 
 
 
