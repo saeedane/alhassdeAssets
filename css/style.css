@@ -463,7 +463,6 @@ padding-bottom:15px;
 }
 
 
-
 .widgetSideTitle h2{
         font-family: 'alhassade';
     font-size: 37px;
@@ -471,16 +470,6 @@ padding-bottom:15px;
     padding-right:25px;
 }
 
-.category-newspaper  .widgetSideTitle h2:before{
-    content: '';
-    position: absolute;
-    right: 0;
-    top: 32px;
-    width: 8px;
-    height: 8px;
-    background: #c61c20;
-
-}
 
 .page-search .article__list {
     padding-right: 0;
@@ -1758,11 +1747,6 @@ body.darkV .widgetSideTitle{
 body.darkV .widgetSideTitle h2{
     color: #ffffff;
 
-
-}
-
-body.darkV .category-newspaper .widgetSideTitle h2:before{
-        background: #e5b90f;
 
 }
 
