@@ -2325,7 +2325,7 @@ margin-right: 8px;
 
 
  }
-  .nav-links .nav-next .media, .nav-links .previous .media{
+  .nav-links .nav-next .media, .nav-links .nav-previous .media{
            border-top: 2px solid#ededf1;
             margin-top: -2px; 
   }
