@@ -3070,13 +3070,26 @@ body.darkV  .colent_list   .coment_title{
     color: #ddd;
 }
 
+
+body.darkV  .border-bottom{
+        border-bottom: 1px solid #262626!important;
+
+}
+
 body.darkV .media.singleComent p{
     color:white !important;
+}
+
+body.darkV .singleComent .children{
+      border-right: 1px solid #262626;
+  
 }
 
 body.darkV .singleComent h4{
     color:white !important;
 }
+
+
 
 
 body.darkV .article__data .article__item{
