@@ -3316,6 +3316,8 @@ body.darkV .footerContainer .nav-link{
 		width :100% !important;
 		height:93px !important;
 	}	
+
+
 	
 	.newsWithSidebar .sidebar .card .card-img-top:first-child{
 				height:100% !important;
@@ -3323,12 +3325,16 @@ body.darkV .footerContainer .nav-link{
 	}
 	
 	.newsWithSidebar .sidebar{
-		width:100% !important;
-		margin: auto ;
     	margin-bottom:15px;
 
 
 	}
+
+.newsWithSidebar .sidebar__widgets{
+            width:100% !important;
+
+}
+
 
 	.widgetLastNews{
 		width:100%;
