@@ -2347,7 +2347,7 @@ margin-right: 8px;
  .nav-links .nav-previous .nav-link-text,.nav-links .nav-next .nav-link-text{
     font-family: 'alhassade';
          display: block;
-         border-bottom: 1px solid#ededf1;
+    border-bottom: 2px solid var(--red);
     padding: 10px 0px;
     font-size:24px;
 
