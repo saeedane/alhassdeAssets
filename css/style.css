@@ -2425,6 +2425,15 @@ margin-right: 8px;
         border-bottom: 2px solid #e5e5e5;
 
 }
+.comentsArea .header__comment .comment-summary__select select {
+    padding: 2px;
+}
+.comentsArea .header__comment .comment-summary__select label{
+    font-family: 'alhassade';
+    color: black;
+    font-size: 21px;
+}
+
 
 .comentsArea .logged-in-as{
     font-family: 'sadan-toshiba';
