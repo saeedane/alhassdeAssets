@@ -1768,7 +1768,7 @@ body.darkV .category-newspaper .widgetSideTitle h2:before{
 
 body.darkV .btn-download{
         box-shadow: none;
-background-color:#6c757d  !important;
+        background: #6c757d !important;
 
 }
 
