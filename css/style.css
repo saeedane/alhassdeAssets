@@ -21,9 +21,7 @@ body{
     max-width: 1244px !important;
 }
 
-.tc {
-    color: #707070;
-}
+
 
 h1, h2, h3, h4, h5 {
     margin: 0;
@@ -321,7 +319,7 @@ display: block;
     object-position: center;
     font-size: 0;
     background-color: #f7f7f9;
-       height: 100%;
+       height: auto;
 
 
 }
