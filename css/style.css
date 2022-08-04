@@ -362,11 +362,10 @@ display: block;
 
 .header-bottom .header_search{
 position: absolute;
-    left: 180px;
     height: 100%;
+     left: 250px;
     align-items: center;
     display: flex !important;
-        bottom: 7px;
     z-index: 1;
 
 }
