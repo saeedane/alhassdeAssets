@@ -2314,13 +2314,18 @@ margin-right: 8px;
          margin: 0px 10px;
 
  }
+
+
  
  .nav-links .nav-next .media{
          display: flex;
     flex-direction: row-reverse;
     align-items: center !important;
+        border-top: 2px solid#ededf1;
+            margin-top: -1px;
+
+
  }
- 
  
  
  .nav-links .nav-previous .entry-title, .nav-links .nav-next .entry-title{
@@ -3662,10 +3667,12 @@ width: 136px;
 .nav-links .nav-previous, .nav-links .nav-next{     
     width:100%;
  }
+
 	
 .nav-links .nav-next .media {
 
         flex-direction: initial;
+
 
 }
 .nav-links .nav-next .nav-link-text{
