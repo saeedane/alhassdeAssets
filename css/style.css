@@ -1773,7 +1773,7 @@ body.darkV .btn-download{
 }
 
 
-body.darkV .cat_name, .download_count{
+body.darkV  .download_count{
     color: var(--wp--preset--color--cyan-bluish-gray) !important;
 
 }
