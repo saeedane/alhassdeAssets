@@ -1753,6 +1753,8 @@ font-size: 27px;
 
 body.darkV .widgetSideTitle{
     color: #ffffff;
+        border-bottom: 1px solid #313030;
+
 }
 
 body.darkV .category-newspaper .widgetSideTitle h2:before{
