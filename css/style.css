@@ -2989,8 +2989,12 @@ body.darkV .page-content .article__section .body-text h2{
  
  
   body.darkV  .nav-links .nav-previous .nav-link-text,  body.darkV .nav-links .nav-next .nav-link-text{
-            border-bottom: 1px #505050 solid;
       color: white;
+
+  }
+
+    body.darkV .nav-links .nav-next .media, .nav-links .nav-previous .media{
+        border-top: 2px solid #313030;
 
   }
  
