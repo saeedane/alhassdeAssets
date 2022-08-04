@@ -463,6 +463,8 @@ padding-bottom:15px;
 
 }
 
+
+
 .widgetSideTitle h2{
         font-family: 'alhassade';
     font-size: 44px;
@@ -1745,6 +1747,16 @@ font-size: 27px;
         border: 0px;
             padding: 6px 20px;
 
+
+}
+
+
+body.darkV .widgetSideTitle{
+    color: #ffffff;
+}
+
+body.darkV .category-newspaper .widgetSideTitle h2:before{
+        background: #e5b90f;
 
 }
 
