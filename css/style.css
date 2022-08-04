@@ -1774,7 +1774,7 @@ body.darkV .btn-download{
 
 
 body.darkV .cat_name, .download_count{
-        color: var(--wp--preset--color--cyan-bluish-gray);
+    color: var(--wp--preset--color--cyan-bluish-gray) !important;
 
 }
 
