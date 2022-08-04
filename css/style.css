@@ -2417,6 +2417,13 @@ margin-right: 8px;
         background: #f7f7f9;
     padding: 20px 15px ;
     margin-bottom:20px;
+  
+}
+
+
+.comentsArea .header__comment {
+        border-bottom: 2px solid #e5e5e5;
+
 }
 
 .comentsArea .logged-in-as{
@@ -2425,9 +2432,11 @@ margin-right: 8px;
 }
 
 .coment_title {
-    margin-bottom: 20px;
+    margin-bottom: -2px;
         font-family: 'alhassade';
-    font-size: 35px;
+    font-size: 28px;
+        border-bottom: 2px solid #c61c20;
+
 }
 
 
@@ -2996,7 +3005,13 @@ border:0px;
 
 body.darkV  .comentsArea{
     border-radius: 5px;
-       background: black;
+    background: #313030;
+
+
+}
+
+body.darkV  .comentsArea .header__comment {
+    border-bottom: 1px solid #383838;
 
 }
 
