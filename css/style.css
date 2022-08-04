@@ -1643,6 +1643,11 @@ ul.shareThis {
 
 }
 
+body.darkV .category-newspaper .mobile_search{
+        border: 1px solid #313030;
+
+}
+
 .category-newspaper  #search{
         border: 0;
     padding: 10px 0;
