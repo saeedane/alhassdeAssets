@@ -2317,16 +2317,18 @@ margin-right: 8px;
 
 
  
- .nav-links .nav-next .media{
+ .nav-links .nav-next .media {
          display: flex;
     flex-direction: row-reverse;
     align-items: center !important;
-        border-top: 2px solid#ededf1;
-            margin-top: -1px;
+
 
 
  }
- 
+  .nav-links .nav-next .media, .nav-links .previous .media{
+           border-top: 2px solid#ededf1;
+            margin-top: -2px; 
+  }
  
  .nav-links .nav-previous .entry-title, .nav-links .nav-next .entry-title{
     font-family: 'alhassade';
