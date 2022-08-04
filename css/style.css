@@ -2993,7 +2993,7 @@ body.darkV .page-content .article__section .body-text h2{
 
   }
 
-    body.darkV .nav-links .nav-next .media, .nav-links .nav-previous .media{
+    body.darkV .nav-links .nav-next .media,    body.darkV .nav-links .nav-previous .media{
         border-top: 2px solid #313030;
 
   }
