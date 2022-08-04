@@ -313,7 +313,7 @@ img[data-src][src] {
 
 .bg-img {
 display: block;
-    max-width: 100%!important;
+    width: 100%!important;
     -o-object-fit: cover;
     object-fit: cover;
     position: relative;
@@ -321,10 +321,9 @@ display: block;
     object-position: center;
     font-size: 0;
     background-color: #f7f7f9;
-    background-image: url(https://cdn.alhassadelyoumi.dz/wp-content/uploads/2021/06/El-Hassad-el-yawmi-Logotype-300x233.png);
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
+       height: 100%;
+
+
 }
 
 .card-img, .card-img-top{
