@@ -1772,6 +1772,12 @@ body.darkV .btn-download{
 
 }
 
+
+body.darkV .cat_name, .download_count{
+        color: var(--wp--preset--color--cyan-bluish-gray);
+
+}
+
 .archive__container   .page-item.disabled .page-link,.category-newspaper  .page-item.disabled .page-link{
     background-color: #000 !important;
     color: white !important;
