@@ -1669,7 +1669,7 @@ ul.shareThis {
 .category-newspaper .article__list {
     display: grid !important;
     grid-row-gap: 5px;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
 }
 
 
