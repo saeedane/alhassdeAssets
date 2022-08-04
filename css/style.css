@@ -3396,7 +3396,7 @@ body.darkV .footerContainer .nav-link{
 	}
 	
     .banarContainer  .articles-list .article__item .card-img, .card-img-bottom, .card-img-top{
-		height:220px;
+		height:100%;
 		object-fit:cover;
 		
 	}
