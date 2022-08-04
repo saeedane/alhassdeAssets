@@ -2431,11 +2431,11 @@ margin-right: 8px;
     margin-bottom: 23px;
 }
 
-.coment_title {
+.comentsArea .header__comment .coment_title {
     margin-bottom: -2px;
         font-family: 'alhassade';
     font-size: 28px;
-        border-bottom: 2px solid #c61c20;
+    border-bottom: 2px solid #c61c20 !important;
 
 }
 
