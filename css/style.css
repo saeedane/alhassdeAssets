@@ -2415,7 +2415,7 @@ margin-right: 8px;
 
 .comentsArea {
         background: #f7f7f9;
-    padding: 20px 15px ;
+    padding: 20px;
     margin-bottom:20px;
   
 }
@@ -2440,6 +2440,12 @@ margin-right: 8px;
     margin-bottom: 23px;
 }
 
+
+.comentsArea  .coment_title{
+        font-family: 'alhassade';
+    margin-bottom: 15px;
+    font-size: 28px;
+}
 .comentsArea .header__comment .coment_title {
     margin-bottom: -2px;
         font-family: 'alhassade';
@@ -3021,6 +3027,17 @@ body.darkV  .comentsArea{
 
 body.darkV  .comentsArea .header__comment {
     border-bottom: 2px solid #383838;
+
+}
+
+body.darkV .comentsArea .header__comment .comment-summary__select label{
+        color: #adadad;
+
+}
+body.darkV .comentsArea .header__comment .comment-summary__select select{
+        background: #262626;
+    color: #adadad;
+        border: 0;
 
 }
 
