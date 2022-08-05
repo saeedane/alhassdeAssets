@@ -792,6 +792,9 @@ display: grid;
 
 }
 
+.banarContainer .articles-list .article__item:nth-child(3) .card {
+    border: 0px;
+}
 
 .banarContainer .articles-list .article__item:last-child{
        margin-bottom: 30px;
