@@ -1672,7 +1672,9 @@ body.darkV .category-newspaper .mobile_search{
 .category-newspaper .article__list {
     display: grid !important;
     grid-row-gap: 5px;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-column-gap: 20px;
+
 }
 
 
@@ -1682,6 +1684,7 @@ body.darkV .category-newspaper .mobile_search{
     grid-row-gap: 5px;
     grid-template-columns: 3fr 1fr;
     margin-bottom: 30px;
+
 }
 
 
@@ -1690,6 +1693,7 @@ body.darkV .category-newspaper .mobile_search{
     font-family: 'alhassade';
     font-size: 17px;
     width:100px;
+
 }
 
 
