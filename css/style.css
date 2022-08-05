@@ -1631,10 +1631,11 @@ ul.shareThis {
     margin: 0px;
 }
 
-.category-video .article__list .article__item:nth-child(4){
+.category-video .article__list .article__item:nth-child(3n + 1){
         margin-left: 0px;
 
 }
+
 
 /*  category category-newspaper archive */
 
