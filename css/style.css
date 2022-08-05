@@ -3726,6 +3726,15 @@ width: 136px;
 }
     
 /* comment response  */
+.comentsArea .header__comment .coment_title{
+        font-size: 23px;
+
+}
+
+.comentsArea .header__comment .comment-summary__select label{
+        font-size: 18px;
+
+}
 .comentsArea{
     margin-right: -15px;
     margin-left: -15px;
@@ -3733,6 +3742,10 @@ width: 136px;
 
 }
 
+.comentsArea .header__comment .comment-summary__select select{
+        font-size: 14px;
+
+}
 
 
     /* video section response */
