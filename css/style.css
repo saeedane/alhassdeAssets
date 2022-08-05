@@ -1432,7 +1432,9 @@ background-repeat: no-repeat;
 
 }
 
-
+.archive__featured .featured__articles .article__item:first-child .card-img-top{
+    height: 330px;
+}
 
 .archive__featured .featured__articles .article__item .article__body .latest_section a{
     margin-right: auto;
