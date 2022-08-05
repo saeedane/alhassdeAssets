@@ -1967,7 +1967,7 @@ body.darkV  .download_count{
 
 .page-content .article__hero .article__teaser .card-img-top{
         object-fit: cover;
-    object-position: center;
+    object-position: top;
     height: 420px;
         border-radius: 6px;
 
