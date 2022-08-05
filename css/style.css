@@ -3731,6 +3731,10 @@ width: 136px;
 
 }
 
+.coment_options li input.blackBorder{
+        font-size: 22px;
+
+}
 .comentsArea .header__comment .comment-summary__select label{
         font-size: 18px;
 
