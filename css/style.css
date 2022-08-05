@@ -3725,6 +3725,16 @@ width: 136px;
     text-align:right;
 }
     
+/* comment response  */
+.comentsArea{
+    margin-right: -15px;
+    margin-left: -15px;
+    border-radius: 0px;
+
+}
+
+
+
     /* video section response */
 .category-video .article__list {
     display: block !important;
