@@ -1622,14 +1622,19 @@ ul.shareThis {
     padding-right:0px;
 }
 .category-video .article__list .article__item{
-    margin-left: 34px;
+    margin-left: auto;
 }
+
+
 
 .category-video .article__list .article__item:first-child{
     margin: 0px;
 }
 
+.category-video .article__list .article__item:nth-child(3){
+        margin-left: 0;
 
+}
 
 /*  category category-newspaper archive */
 
