@@ -1206,6 +1206,14 @@ display: flex;
 
 }
 
+.MostViewsContainer .items .element .item-1,
+.MostViewsContainer .items .element .item-3,
+.MostViewsContainer .items .element .item-5,
+{
+        margin-right: auto;
+    margin-left: 0px;
+}
+
 .MostViewsContainer .items .element .news-right{
     float: right;
     display: flex;
@@ -3551,6 +3559,8 @@ height: 250px !important;
     width:100%;
     }
     
+
+
     
     
     .MostViewsContainer .items .element .news-right {
