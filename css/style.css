@@ -1210,8 +1210,8 @@ display: flex;
 .MostViewsContainer .items  .item-3,
 .MostViewsContainer .items  .item-5,
 {
-        margin-right: auto;
-    margin-left: 0px;
+        margin-right: auto !important;
+    margin-left: 0px !important;
 }
 
 .MostViewsContainer .items .element .news-right{
