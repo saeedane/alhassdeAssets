@@ -1299,7 +1299,7 @@ display: flex;
     flex-wrap: wrap;
 
 }
-.sectionCategory .categoryContianer .card-category{
+  .card-category-1,  .card-category-2 .card-category-3,  .card-category-4,  .card-category-5,  .card-category-6{
     margin-left: 20px;
     width:calc(100%/3 - 20px);
     
@@ -3517,7 +3517,7 @@ height: 250px !important;
     
 /* section category  */
     
-    .sectionCategory .categoryContianer .card-category{
+      .card-category-1 .card-category-2 , .card-category-3,  .card-category-4,  .card-category-5,  .card-category-6{
         width:100% !important;
         margin-bottom:20px !important;
         border-bottom: 1px solid#ddd;
