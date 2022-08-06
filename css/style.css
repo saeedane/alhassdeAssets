@@ -1304,9 +1304,20 @@ display: flex;
 
 
 .sectionCategory .categoryContianer .card-category .article-list li a{
-      font-size: 25px;
     font-family: 'alhassade';
 }
+
+.sectionCategory .categoryContianer .card-category .article-list li .article__link-beg{
+         font-size: 25px;
+ 
+}
+
+.sectionCategory .categoryContianer .card-category .article-list li .article__link-small{
+         font-size: 23px;
+
+}
+
+
 .sectionCategory .categoryContianer .card-category .article-list  li{
 padding-right: 10px;
 border-top: 1px solid#f3f3f3;
