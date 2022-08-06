@@ -1318,11 +1318,7 @@ display: flex;
 }
 
 
-.sectionCategory .categoryContianer .card-category .article-list  li{
-padding-right: 10px;
-border-top: 1px solid#f3f3f3;
-align-items: center;
-}
+
 
 .sectionCategory .categoryContianer .card-category .article-list  li .article__body{
 padding: 10px 10px;
