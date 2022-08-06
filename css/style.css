@@ -845,7 +845,7 @@ font-size:24px;
     width:100%;
 }
 
-.banarContainer .articles-list .article__item .card-body ,.sectionCategory .categoryContianer .card-category .article-list li.article__body-beg{
+.banarContainer .articles-list .article__item .card-body ,.article__body-beg{
     width: 100%;
     position: absolute;
     bottom: 0px;
