@@ -1206,9 +1206,9 @@ display: flex;
 
 }
 
-.MostViewsContainer .items .element .item-1,
-.MostViewsContainer .items .element .item-3,
-.MostViewsContainer .items .element .item-5,
+.MostViewsContainer .items  .item-1,
+.MostViewsContainer .items  .item-3,
+.MostViewsContainer .items  .item-5,
 {
         margin-right: auto;
     margin-left: 0px;
