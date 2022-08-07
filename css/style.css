@@ -920,7 +920,11 @@ font-size:24px;
 }
 
 
-.widgetLastNews .card .article__body  {
+.widgetLastNews .card .article__body .card-title{
+    font-size: 28px;
+
+}
+.widgetLastNews .card .article__body  p{
     font-family: 'Awras-Emir';
     color: #707070;
     font-size: 19px;
