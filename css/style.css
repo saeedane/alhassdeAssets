@@ -1030,7 +1030,9 @@ padding-bottom: 10px;
 }
 /**** last news ******/
 .widgetLastNews{
+    padding: 10px 20px;
     margin-bottom: 20px;
+    border: 1px solid#ededf1;    
 
 }
 
