@@ -2757,8 +2757,10 @@ font-family: 'alhassade';
 }
     
 .footerContainer .footerWidgetRight .widgetContList .footer__block:nth-child(3) p {
-    font-size: 19px;
+    font-size: 21px;
     color: black;
+        font-family: 'sadan-toshiba';
+
 }
 
 
