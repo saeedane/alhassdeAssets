@@ -3422,6 +3422,12 @@ body.darkV .footerContainer .nav-link{
       padding-right: 0px;
       line-height: 1.5;
     }
+
+
+.banarContainer .articles-list .article__item .card-img-top{
+ height: 100%;
+}
+
     .banarContainer .articles-list .article__item:first-child{
         width:100% !important;
         margin:auto;
