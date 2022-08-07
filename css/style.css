@@ -1315,11 +1315,13 @@ display: flex;
 
 }
 
-.sectionCategory .categoryContianer .card-category:nth-child(3),.sectionCategory .categoryContianer .card-category:nth-child(6){
+.sectionCategory .categoryContianer .card-category:nth-child(3n + 1){
 
 margin-left: 0px;
     margin-right: auto;
 }
+
+
 
 .sectionCategory .categoryContianer .card-category li:nth-child(6) .card {
     border: 0;
