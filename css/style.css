@@ -919,10 +919,10 @@ font-size:24px;
 }
 
 
-.widgetLastNews .card .card-text {
+.widgetLastNews .card .article__body  {
     font-family: 'Awras-Emir';
     color: #707070;
-    font-size: 18px;
+    font-size: 24px;
 }
 
 
