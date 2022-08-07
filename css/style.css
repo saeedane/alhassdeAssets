@@ -190,9 +190,6 @@ padding-right: 10px;
 .card-title{
     font-family: 'alhassade';
 
-    font-size:27px;
-
-
 }
 
 
@@ -3350,6 +3347,11 @@ body.darkV .footerContainer .nav-link{
         .newsWithSidebar{
             display:block !important;
         }
+
+
+    .newsWithSidebar .sidebar, .newsWithSidebar .widget-news .card-title {
+    font-size: 25px;
+}    
     
     .newsWithSidebar .sidebar .card .card-img-top{
         width :100% !important;
