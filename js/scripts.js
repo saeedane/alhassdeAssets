@@ -25,7 +25,11 @@ var swiper = new Swiper(".newspaper-slider", {
       el: ".swiper-pagination",
       clickable: true,
     },
+    // navigation arrows
+    nextButton: '#js-prev1',
+    prevButton: '#js-next1',
         breakpoints: { 320: { slidesPerView: 1, spaceBetween: 10 }, 575: { slidesPerView: 1, spaceBetween: 10 }, 768: { slidesPerView: 1 }, 991: { slidesPerView: 3 }, 1200: { slidesPerView: 1 } },
+
 
   });
 
