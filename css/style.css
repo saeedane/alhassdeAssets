@@ -1263,6 +1263,8 @@ display: flex;
 
 .MostViewsContainer .items .element .news-left ul li:first-child a{
     font-size: 21px;
+        color: #c61c20;
+
 }
 
 .MostViewsContainer .items .element .news-left ul li:last-child img{
