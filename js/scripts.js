@@ -21,10 +21,10 @@ var swiper = new Swiper(".videoSlider", {
 
 var swiper = new Swiper(".newspaper-slider", {
     slidesPerView: 4,
-    pagination: {
-      el: ".swiper-pagination",
-      clickable: true,
-    },
+       // pagination
+    pagination: '.swiper-pagination',
+    paginationClickable: true,
+    
     // navigation arrows
     nextButton: '#js-prev1',
     prevButton: '#js-next1',
