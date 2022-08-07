@@ -18,6 +18,18 @@ var swiper = new Swiper(".videoSlider", {
   });
 
 
+
+var swiper = new Swiper(".newspaper-slider", {
+    slidesPerView: 4,
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
+        breakpoints: { 320: { slidesPerView: 1, spaceBetween: 10 }, 575: { slidesPerView: 1, spaceBetween: 10 }, 768: { slidesPerView: 1 }, 991: { slidesPerView: 3 }, 1200: { slidesPerView: 1 } },
+
+  });
+
+
 /* menu side right */
 $('.menu_bar').on('click',function(){
 	$('.sideMenuContainer .sideMenuBox').toggleClass("active");
