@@ -3425,7 +3425,7 @@ body.darkV .footerContainer .nav-link{
 
 
 .banarContainer .articles-list .article__item .card-img-top{
- height: 100%;
+    height: 230px;
 }
 
     .banarContainer .articles-list .article__item:first-child{
