@@ -1429,8 +1429,14 @@ background-repeat: no-repeat;
 
 .archive__featured .featured__articles .article__item:first-child{
         grid-area: main-article;
-        
+            margin-right: -15px;
+    margin-left: -15px;
 
+}
+
+.archive__featured .featured__articles .article__item:first-child .article__image img{
+
+border-radius: 0px;
 }
 
 .archive__featured .featured__articles .article__item:nth-child(2){
