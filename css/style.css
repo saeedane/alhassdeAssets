@@ -2501,7 +2501,7 @@ margin-right: 8px;
 
 
 .comentsArea .header__comment {
-        border-bottom: 2px solid #e5e5e5;
+        border-bottom: 1px solid #e5e5e5;
 
 }
 .comentsArea .header__comment .comment-summary__select select {
@@ -2529,7 +2529,6 @@ margin-right: 8px;
     margin-bottom: -2px;
         font-family: 'alhassade';
     font-size: 28px;
-    border-bottom: 2px solid #c61c20 !important;
 
 }
 
