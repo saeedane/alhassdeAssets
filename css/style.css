@@ -880,6 +880,10 @@ font-size:24px;
 
 /* start section newsWithSidebar */
 
+    .newsWithSidebar .sidebar, .newsWithSidebar .widget-news .card-title {
+    font-size: 25px;
+}    
+
 /* widget card pdf  */
 
 .newsWithSidebar .sidebar .card .article__body a.redmore{
@@ -3349,9 +3353,7 @@ body.darkV .footerContainer .nav-link{
         }
 
 
-    .newsWithSidebar .sidebar, .newsWithSidebar .widget-news .card-title {
-    font-size: 25px;
-}    
+
     
     .newsWithSidebar .sidebar .card .card-img-top{
         width :100% !important;
