@@ -947,6 +947,11 @@ font-size:24px;
 
 }
 
+
+.newsWithSidebar  .sidebar__widgets .swiper-pagination-bullet-active {
+    background-color: #c61c20;
+}
+
 .newsWithSidebar  .sidebar,.newsWithSidebar .widget-news{
     margin-bottom: 20px;
     padding: 10px 20px;
