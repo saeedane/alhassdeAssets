@@ -1315,7 +1315,7 @@ display: flex;
 
 /* section category */
 
-.categoryContianer {
+.sectionCategory  .categoryContianer {
     display: flex;
     flex-wrap: wrap;
 
@@ -1375,6 +1375,21 @@ object-fit: cover;
 height: 240px;
 margin-top: 15px;
 }
+
+/* category with sidebar */
+
+.sectionCategoryWithSidebar .categoryContianer .widgetCategory{
+    width: 780px;
+}
+
+.sectionCategoryWithSidebar .categoryContianer .sidebar__widgets{
+    margin-right: auto;
+    width: 360px;
+}
+
+
+
+
 
 /** archive page **/
 
