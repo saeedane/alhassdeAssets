@@ -1431,6 +1431,12 @@ display: grid;
         width: 820px;
 
 }
+
+.sectionCategoryWithSidebar .categoryContianer  .widgetCategory .article__body  h3{
+        font-size: 22px;
+    font-family: 'alhassade';
+}
+
 .sectionCategoryWithSidebar .categoryContianer .sidebar__widgets{
     width: 340px;
         margin-right: auto;
