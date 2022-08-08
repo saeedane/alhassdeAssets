@@ -1379,7 +1379,19 @@ margin-top: 15px;
 /* category with sidebar */
 
 .sectionCategoryWithSidebar .categoryContianer .article-list{
-    width: 780px;
+    width: 100%;
+     display: flex;
+    flex-wrap: wrap;
+    padding-right: 0;
+    grid-row-gap: 5px;
+}
+
+.sectionCategoryWithSidebar .categoryContianer .article-list .article:first-child{
+    margin-left: auto;
+    width: 50%;
+}
+.sectionCategoryWithSidebar .categoryContianer .article-list .article{
+    width: 50%;
 }
 
 .sectionCategoryWithSidebar .categoryContianer .sidebar__widgets{
