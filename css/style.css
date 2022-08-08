@@ -1390,7 +1390,7 @@ display: flex;
     padding-right: 0px;
 }
 .sectionCategoryWithSidebar .categoryContianer .article-list .article__item{
-            margin-left: auto !important;
+            margin-left: auto ;
 
 }
 
