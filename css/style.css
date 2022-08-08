@@ -1312,6 +1312,10 @@ margin-left: 0px;
     margin-right: auto;
 }
 
+.sectionCategory .categoryContianer .card-category li:nth-child(10) .card {
+    border: 0;
+}
+
 .sectionCategory .categoryContianer .card-category .article-list{
     padding-right: 0px;
 }
