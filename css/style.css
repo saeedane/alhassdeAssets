@@ -1433,7 +1433,12 @@ display: grid;
 }
 
 .sectionCategoryWithSidebar .categoryContianer  .widgetCategory .article:first-child .article__body  h3{
-        font-size: 25px;
+        font-size: 27px;
+
+}
+
+.sectionCategoryWithSidebar .categoryContianer  .widgetCategory .article:first-child .article__body  p{
+        font-size: 23px;
 
 }
 
