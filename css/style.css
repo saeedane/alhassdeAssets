@@ -1379,12 +1379,12 @@ margin-top: 15px;
 /* category with sidebar */
 .sectionCategoryWithSidebar .categoryContianer{
 display: flex;
-    grid-column-gap: 20px;
 
 }
 
 .sectionCategoryWithSidebar .categoryContianer .article-list{
 display: grid;
+    grid-column-gap: 30px;
     grid-row-gap: 5px;
     grid-template-areas:
         "main-article section-article-1"
