@@ -1377,6 +1377,11 @@ margin-top: 15px;
 }
 
 /* category with sidebar */
+.sectionCategoryWithSidebar .categoryContianer{
+display: flex;
+    grid-column-gap: 20px;
+
+}
 
 .sectionCategoryWithSidebar .categoryContianer .article-list{
 display: grid;
