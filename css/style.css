@@ -1427,7 +1427,7 @@ display: grid;
 }
 
 
-.sectionCategoryWithSidebar .categoryContianer .article-list .article .no-gutters{
+.sectionCategoryWithSidebar .categoryContianer .article-list .article .card .no-gutters{
 
         flex-direction: unset;
 
