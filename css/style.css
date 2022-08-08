@@ -1384,7 +1384,7 @@ display: flex;
 
 .sectionCategoryWithSidebar .categoryContianer .article-list{
 display: grid;
-    grid-column-gap: 30px;
+    grid-column-gap: 10px;
     grid-row-gap: 5px;
     grid-template-areas:
         "main-article section-article-1"
