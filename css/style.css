@@ -1385,8 +1385,10 @@ display: grid;
     grid-template-areas:
         "main-article section-article-1"
         "main-article section-article-2"
-        "main-article section-article-3";
+        "main-article section-article-3"
+        "main-article section-article-4 ";
     grid-template-columns: 1fr 1fr;
+    padding-right: 0px;
 }
 
 .sectionCategoryWithSidebar .categoryContianer .article-list .article:first-child{
