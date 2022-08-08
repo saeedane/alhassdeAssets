@@ -1306,6 +1306,12 @@ display: flex;
 
 }
 
+.sectionCategory .categoryContianer .card-category:nth-child(9),.sectionCategory .categoryContianer .card-category:nth-child(21){
+
+margin-left: 0px;
+    margin-right: auto;
+}
+
 .sectionCategory .categoryContianer .card-category .article-list{
     padding-right: 0px;
 }
