@@ -1460,7 +1460,7 @@ display: grid;
 }
 
 .sectionCategoryWithSidebar .categoryContianer .sidebar__widgets{
-    width: 340px;
+        width: 33.33333%;
         margin-right: auto;
 
 }
