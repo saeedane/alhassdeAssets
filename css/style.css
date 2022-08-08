@@ -1429,7 +1429,7 @@ display: grid;
 
 .sectionCategoryWithSidebar .categoryContianer .article-list .article .card .no-gutters{
 
-        flex-direction: unset;
+    flex-direction: unset !important;
 
 }
 .sectionCategoryWithSidebar .categoryContianer .article-list .article  .card{
