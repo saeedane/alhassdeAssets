@@ -1396,6 +1396,8 @@ display: grid;
     padding-right: 0px;
 }
 
+
+
 .sectionCategoryWithSidebar .categoryContianer .article-list .article:first-child{
     grid-area: main-article;
 
@@ -1425,8 +1427,12 @@ display: grid;
 
 }
 
+
+.sectionCategoryWithSidebar .categoryContianer  .widgetCategory{
+        width: 790px;
+
+}
 .sectionCategoryWithSidebar .categoryContianer .sidebar__widgets{
-    margin-right: auto;
     width: 360px;
 }
 
