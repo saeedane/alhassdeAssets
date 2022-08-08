@@ -1202,15 +1202,14 @@ display: flex;
     padding-bottom: 15px;
     margin-bottom: 10px;
        width: 49%;
-    margin-left: 10px;
 
 }
 
-.item-1,
-.item-3,.item-5,
+.MostViewsContainer .items .element .item-1,
+.MostViewsContainer .items .element .item-3,.MostViewsContainer .items .element .item-5,
 
 {
-        margin-right: auto !important;
+   margin-right: auto !important;
     margin-left: 0px !important;
 }
 
