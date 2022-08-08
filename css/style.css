@@ -1428,11 +1428,11 @@ display: grid;
 
 
 .sectionCategoryWithSidebar .categoryContianer  .widgetCategory{
-        width: 790px;
+        width: 820px;
 
 }
 .sectionCategoryWithSidebar .categoryContianer .sidebar__widgets{
-    width: 360px;
+    width: 340px;
         margin-right: auto;
 
 }
