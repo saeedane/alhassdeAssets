@@ -1395,7 +1395,7 @@ display: flex;
 }
 
 
-.sectionCategoryWithSidebar .categoryContianer .article-list .article__item:nth-child(3n + 1){
+.sectionCategoryWithSidebar .categoryContianer .article-list .article__item:nth-child(4n){
     margin-left: 0px;
 
 }
