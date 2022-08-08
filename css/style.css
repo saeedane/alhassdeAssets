@@ -1433,6 +1433,8 @@ display: grid;
 }
 .sectionCategoryWithSidebar .categoryContianer .sidebar__widgets{
     width: 360px;
+        margin-right: auto;
+
 }
 
 
