@@ -1703,6 +1703,22 @@ ul.shareThis {
 
 }
 
+.category-newspaper  .card-title{
+    font-size: 23px;
+}
+
+.category-newspaper .download_count{
+
+font-size: 21px;
+}
+
+.category-newspaper .download_count:before{
+        content: '|';
+    color: #bbc5ce;
+    display: inline-block;
+    margin-right: 10px;
+    padding-left: 10px;
+}
 body.darkV .category-newspaper .mobile_search{
         border: 1px solid #313030;
 
