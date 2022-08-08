@@ -1201,13 +1201,11 @@ display: flex;
     border-bottom: 1px solid#dee2e6;
     padding-bottom: 15px;
     margin-bottom: 10px;
+     width: 49%;
 
 }
 
-.MostViewsContainer .items .element .item-1,
-.MostViewsContainer .items .element .item-3,.MostViewsContainer .items .element .item-5,
-
-{
+.MostViewsContainer .items .element .item-1{
    margin-right: auto !important;
     margin-left: 0px !important;
 }
