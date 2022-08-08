@@ -1432,6 +1432,11 @@ display: grid;
 
 }
 
+.sectionCategoryWithSidebar .categoryContianer  .widgetCategory .article:first-child .article__body  h3{
+        font-size: 25px;
+
+}
+
 .sectionCategoryWithSidebar .categoryContianer  .widgetCategory .article__body  h3{
     font-size: 23px;
     font-family: 'alhassade';
