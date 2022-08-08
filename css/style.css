@@ -1205,10 +1205,13 @@ display: flex;
 
 }
 
-.MostViewsContainer .items .element .item-1{
-   margin-right: auto !important;
-    margin-left: 0px !important;
+
+
+.MostViewsContainer .items .element:nth-child(2),.MostViewsContainer .items .element:nth-child(4), .MostViewsContainer .items .element:nth-child(6){
+    margin-right: auto;
 }
+
+
 
 .MostViewsContainer .items .element .news-right{
     float: right;
