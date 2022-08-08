@@ -1385,10 +1385,19 @@ display: flex;
 .sectionCategoryWithSidebar .categoryContianer .article-list{
 
     display: flex;
-    /* flex-direction: row; */
+     flex-direction: row; 
     flex-wrap: wrap;
-    align-items: stretch;
     padding-right: 0px;
+}
+.sectionCategoryWithSidebar .categoryContianer .article-list .article__item{
+            margin-left: auto;
+
+}
+
+
+.sectionCategoryWithSidebar .categoryContianer .article-list .article__item:nth-child(4n + 1){
+            margin-left: 0px;
+
 }
 
 
