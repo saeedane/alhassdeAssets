@@ -1427,6 +1427,18 @@ display: grid;
 }
 
 
+.sectionCategoryWithSidebar .categoryContianer .article-list .article .no-gutters{
+
+        flex-direction: unset;
+
+}
+.sectionCategoryWithSidebar .categoryContianer .article-list .article  .card{
+      padding-bottom: 15px;
+  
+}
+
+
+
 .sectionCategoryWithSidebar .categoryContianer  .widgetCategory{
         width: 820px;
 
