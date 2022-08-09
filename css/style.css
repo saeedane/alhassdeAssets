@@ -1384,13 +1384,16 @@ margin-top: 15px;
 
 }
 
+.sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item  .card{
+        padding-bottom: 20px;
+
+}
 .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item  {
 
 margin-left: 20px;
     width: calc(100%/2 - 20px);
     float: right;
     margin-bottom: 20px;
-    padding-bottom: 20px;
 }
 
 .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item .card  .article__title {
