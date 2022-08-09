@@ -1379,7 +1379,7 @@ margin-top: 15px;
     flex-wrap: wrap;
 }
 
-.sectionCategoryHorizontal .categoryContianer .widgetCategory{
+.sectionCategoryHorizontal .categoryContianer .card-category{
         margin-left: 20px;
     width: calc(100%/2 - 20px);
 
