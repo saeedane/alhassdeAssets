@@ -1377,7 +1377,7 @@ margin-top: 15px;
 }
 
 /* category with sidebar */
-body .darkV .sectionCategoryWithSidebar{
+body.darkV .sectionCategoryWithSidebar{
         background-color: #313030;
 
 }
