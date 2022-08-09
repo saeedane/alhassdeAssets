@@ -1377,6 +1377,7 @@ margin-top: 15px;
 .sectionCategoryHorizontal .categoryContianer {
    display: flex;
     flex-wrap: wrap;
+    padding-right: 0px;
 }
 
 .sectionCategoryHorizontal .categoryContianer .card-category{
