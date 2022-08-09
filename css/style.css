@@ -1403,7 +1403,7 @@ display: flex;
   
 }
 
-.sectionCategoryHorizontal .categoryContianer .card-category:nth-child(1) .article-list .article__item:nth-child(2) {
+.sectionCategoryHorizontal .categoryContianer .card-category:nth-child(1) .article-list .article__item:nth-child(2),.sectionCategoryHorizontal .categoryContianer .card-category:nth-child(1) .article-list .article__item:nth-child(4)  {
     margin-left: auto;
 }
 
