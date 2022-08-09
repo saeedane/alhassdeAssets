@@ -1372,6 +1372,20 @@ height: 240px;
 margin-top: 15px;
 }
 
+
+/* category section layout 2  */
+.sectionCategoryHorizontal .categoryContianer {
+   display: flex;
+    flex-wrap: wrap;
+}
+
+.sectionCategoryHorizontal .categoryContianer .card-category{
+        margin-left: 20px;
+    width: calc(100%/2 - 20px);
+
+
+}
+
 /* category with sidebar */
 body.darkV .sectionCategoryWithSidebar{
     background-color: #313030 !important;
