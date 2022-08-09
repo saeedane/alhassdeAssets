@@ -1391,6 +1391,11 @@ display: flex;
 .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item:first-child{
         margin-left: auto !important;
 
+
+}
+
+.sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item:last-child {
+    margin-right: auto;
 }
 
 .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item {
