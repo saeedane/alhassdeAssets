@@ -1398,6 +1398,12 @@ display: flex;
     margin-right: auto;
 }
 
+.sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item:nth-child(4){
+      margin-right: auto;
+  
+}
+
+
 .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item {
     border-bottom: 1px solid#ededf1;
 }
