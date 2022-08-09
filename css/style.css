@@ -1391,6 +1391,12 @@ width: 50%;
     float: right;
 }
 
+.sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item .card .article__title {
+    font-family: 'alhassade';
+font-size: 22px;
+
+}
+
 .sectionCategoryHorizontal .categoryContianer .card-category{
         margin-left: auto;
     width: calc(100%/2);
