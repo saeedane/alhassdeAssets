@@ -1383,9 +1383,13 @@ margin-top: 15px;
         padding-right: 0px;
 
 }
+.sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item {
+    border-bottom: 1px solid#ededf1;
+}
 
 .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item  .card{
         padding-bottom: 20px;
+        border: 0px;
 
 }
 .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item  {
