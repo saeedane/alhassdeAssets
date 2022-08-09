@@ -843,7 +843,7 @@ font-size:24px;
     width:100%;
 }
 
-.banarContainer .articles-list .article__item .card-body ,.article__body-beg{
+.banarSection .banarContainer .articles-list .article__item  .card-body ,.article__body-beg{
     width: 100%;
     position: absolute;
     bottom: 0px;
