@@ -1380,8 +1380,10 @@ margin-top: 15px;
 }
 
 .sectionCategoryHorizontal .categoryContianer .card-category .article-list{
-        padding-right: 0px;
-
+display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-right: 0px;
 }
 .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item {
     border-bottom: 1px solid#ededf1;
@@ -1400,7 +1402,6 @@ margin-top: 15px;
 
 .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item  {
 
-margin-left: 20px;
     width: calc(100%/2 - 20px);
     float: right;
     margin-bottom: 20px;
