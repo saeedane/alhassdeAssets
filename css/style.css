@@ -1386,9 +1386,11 @@ display: flex;
     padding-right: 0px;
 }
 
-.sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item :first-child{
 
-    margin-left: auto;
+
+.sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item:first-child{
+        margin-left: auto !important;
+
 }
 
 .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item {
