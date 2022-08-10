@@ -3730,8 +3730,10 @@ height: 250px !important;
         gap: 10px;
 
 }
+
+
  .sectionCategoryWithSidebar .categoryContianer .article-list .article__item .article__image img{
-}
+
 width: 100%;
  }
      .sectionCategoryWithSidebar .categoryContianer .article-list .article__item:first-child{
