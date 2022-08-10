@@ -3753,8 +3753,14 @@ width: 100%;
      }
 
 
+
+.sectionCategoryHorizontal .categoryContianer .card-category{
+           width: 100% !important;
+ 
+}
+
 .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item{
-        width: 100% !important;
+        width: 50% !important;
 
 }
 
