@@ -3764,7 +3764,9 @@ width: 100%;
         width: 50% !important;
 
 }
-
+.sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item{
+    width: 100%;
+}
 
     
     .newsWithSidebar .sidebar .card .image-thumbnail{
