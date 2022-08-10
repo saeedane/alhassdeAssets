@@ -3648,14 +3648,11 @@ body.darkV .footerContainer .nav-link{
 
 }
 
-.banarContainer .articles-list .article__item .card-body h4{
+.banarContainer .articles-list .article__item .card-body .card-title{
         font-size: 23px;
 
 }
-.card-title {
-    font-size: 25px;
-}
-    
+ 
     
  .banarContainer  .articles-list .article__item .article__body p{
         font-size:16px;
