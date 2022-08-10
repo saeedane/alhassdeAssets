@@ -3648,7 +3648,10 @@ body.darkV .footerContainer .nav-link{
 
 }
 
+.banarContainer .articles-list .article__item .card-body h4{
+        font-size: 23px;
 
+}
 .card-title {
     font-size: 25px;
 }
