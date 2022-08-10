@@ -3554,6 +3554,11 @@ body.darkV .footerContainer .nav-link{
 
     
     }
+
+    .widgetLastNews .card .article__body .card-title a{
+            font-size: 27px;
+
+    }
     
     
 /* banar top */
