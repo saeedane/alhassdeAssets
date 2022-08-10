@@ -3728,7 +3728,7 @@ height: 250px !important;
  .sectionCategoryWithSidebar .categoryContianer .article-list .article__item .article__image img{
 width: 100%;
  }
-     .sectionCategoryWithSidebar .categoryContianer .article-list .article__item:first-child{
+     .sectionCategoryWithSidebar .categoryContianer .article-list .article__item:first-child, .sectionCategoryWithSidebar .categoryContianer .article-list .article__item:first-child .card{
 
         width: 100%;
 
