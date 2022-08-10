@@ -3743,7 +3743,7 @@ width: 100%;
 
      } 
 
-     .sectionCategoryWithSidebar .categoryContianer .article-list .article__item:first-child .card,.sectionCategoryWithSidebar .categoryContianer .article-list .article__item:last-child{
+     .sectionCategoryWithSidebar .categoryContianer .article-list .article__item:first-child .card,.sectionCategoryWithSidebar .categoryContianer .article-list .article__item:last-child .card{
             max-width: 100% !important;
 
      }
