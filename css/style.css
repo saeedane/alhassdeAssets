@@ -3630,13 +3630,16 @@ body.darkV .footerContainer .nav-link{
     
 .banarContainer  .articles-list .article__item  .article__image img{
      height: 108px !important;
-      margin-top: 15px;
-        padding-bottom: 10px;
+      margin-top: 10px;
             object-fit: cover;
-
+border-top-right-radius: 8px !important;
+    border-radius: 0px;
+    border-bottom-left-radius: 8px !important;
 
 
     }
+
+
     
 .banarContainer  .articles-list .article__item  .article__body{
     flex: 0 0 58.333333%;
@@ -3650,7 +3653,7 @@ body.darkV .footerContainer .nav-link{
 
 
 .banarContainer .articles-list .article__item .article__body a{
-        font-size: 22px;
+        font-size: 23px;
 
 }
  
