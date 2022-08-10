@@ -3728,12 +3728,17 @@ height: 250px !important;
  .sectionCategoryWithSidebar .categoryContianer .article-list .article__item .article__image img{
 width: 100%;
  }
-     .sectionCategoryWithSidebar .categoryContianer .article-list .article__item:first-child, .sectionCategoryWithSidebar .categoryContianer .article-list .article__item:first-child .card{
+     .sectionCategoryWithSidebar .categoryContianer .article-list .article__item:first-child{
 
-    max-width: 100%;
+     width: 100%;
 
 
      } 
+
+     .sectionCategoryWithSidebar .categoryContianer .article-list .article__item:first-child .card{
+            max-width: 100% !important;
+
+     }
 
      .sectionCategoryWithSidebar .categoryContianer .article-list .article__item{
         width: 49%;
