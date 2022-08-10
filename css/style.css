@@ -3724,6 +3724,21 @@ height: 250px !important;
         
         
       }
+
+ .sectionCategoryWithSidebar .categoryContianer .article-list .article__item .article__image img{
+width: 100%;
+ }
+
+     .sectionCategoryWithSidebar .categoryContianer .article-list .article__item: first-child{
+
+        width: 100%;
+
+
+     } 
+
+     .sectionCategoryWithSidebar .categoryContianer .article-list .article__item{
+        width: 49%;
+     }
     
     .newsWithSidebar .sidebar .card .image-thumbnail{
         width:100% !important;
