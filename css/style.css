@@ -3751,6 +3751,14 @@ width: 100%;
      .sectionCategoryWithSidebar .categoryContianer .article-list .article__item{
         width: 48%;
      }
+
+
+.sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item{
+        width: 100% !important;
+
+}
+
+
     
     .newsWithSidebar .sidebar .card .image-thumbnail{
         width:100% !important;
