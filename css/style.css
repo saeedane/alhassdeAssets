@@ -3726,7 +3726,7 @@ height: 250px !important;
       }
 
 
-.sectionCategoryWithSidebar .categoryContianer .article-list{
+.sectionCategoryWithSidebar .categoryContianer .article-list,.sectionCategoryHorizontal .categoryContianer .card-category .article-list {
         gap: 10px;
 
 }
