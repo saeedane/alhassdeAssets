@@ -4138,6 +4138,7 @@ border-radius: 0px;
 .footerContainer .footer__items .footerWidgetLeft .widgetContList .footer__block:nth-child(3) {
             border-right: 1px solid#e5e5e5;
     border-left: 0;
+    margin-right: auto;
 
     
 }
