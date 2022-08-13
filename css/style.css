@@ -1197,7 +1197,7 @@ display: flex;
     
 }
 
-.titleWidgetMostViews .article__links:after {
+.titleWidgetMostViews .article__links:after ,.titleCatWidget h2{
     content: " ";
     width: 30px;
     background-image: url(https://asset1.skynewsarabia.com/asset/1643183802/C30BB2E4FD0AD89891EE0B7AC12322A0/assets/img/svg-icons/content_go_arrow.svg);
