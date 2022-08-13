@@ -3808,7 +3808,7 @@ width: 100%;
 }
 
 
-.sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item:nth-child(5), body.darkV .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item:nth-child(6) {
+.sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item:nth-child(5), .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item:nth-child(6) {
     border: 0px;
 }
 
