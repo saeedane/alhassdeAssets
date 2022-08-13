@@ -2698,7 +2698,11 @@ margin-right: 8px;
 
 }
 
-
+.comentsArea .colent_list .comment_status_message {
+    background-color: var(--palette-grey-100) !important;
+    border-color: var(--palette-grey-300) !important;
+    color: var(--palette-text-500) !important;
+}
 
 
 .comentForm textarea {
