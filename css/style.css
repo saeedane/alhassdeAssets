@@ -3211,6 +3211,17 @@ body.darkV .sectionCategory .categoryContianer .card-category .article-list li a
 
 }
 
+
+body.darkV .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item .card .article__title a{
+    color: black !important;
+}
+
+body.darkV  .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item{
+        border-bottom: 1px solid#4e4c4c;
+
+}
+
+
 /* dark mode single page */
 body.darkV .page-content .article__hero .article__title{
     color:white;
