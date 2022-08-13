@@ -3761,8 +3761,10 @@ width: 100%;
 
 
 
-.sectionCategoryHorizontal .categoryContianer .card-category{
+.sectionCategoryHorizontal .categoryContianer .widgetCategory{
            width: 100% !important;
+
+           
  
 }
 
