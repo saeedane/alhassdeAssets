@@ -1192,7 +1192,7 @@ display: flex;
     grid-row-gap: 5px;
 }
 
-.titleWidgetMostViews .article__links{
+.titleWidgetMostViews .article__links,.titleCatWidget .article__links{
     display:flex;
     
 }
