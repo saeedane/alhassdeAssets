@@ -1441,8 +1441,7 @@ display: flex;
 
 }
 
-.sectionCategoryHorizontal .categoryContianer .card-category{
-        margin-left: auto;
+.sectionCategoryHorizontal .categoryContianer .widgetCategory{
     width: calc(100%/2);
 
 
