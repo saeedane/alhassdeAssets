@@ -354,6 +354,11 @@ display: block;
     font-size: 27px;
 }
 
+
+
+
+
+
 .header-bottom .header_search{
 position: absolute;
     height: 100%;
@@ -582,6 +587,16 @@ overflow: auto;
     
 
 }
+
+.header__nav .nav .nav-item img{
+    filter: invert(1) brightness(20.5) !important;
+
+}
+body.darkV .header__nav .nav .nav-item img{
+        filter: inherit !important;
+
+}
+
 
 
 .header-bottom .header-content a.nav-link.active{
