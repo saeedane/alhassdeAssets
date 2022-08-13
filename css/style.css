@@ -1440,7 +1440,7 @@ display: flex;
 }
 
 .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item:nth-child(5),.sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item:nth-child(6){
-          border: 0px;
+    border: 0px !important;
   
 }
 
