@@ -1377,6 +1377,7 @@ margin-top: 15px;
 .sectionCategoryHorizontal .categoryContianer {
    display: flex;
     flex-wrap: wrap;
+    gap: 10px;
 }
 
 .sectionCategoryHorizontal .categoryContianer .card-category .article-list{
@@ -1442,7 +1443,8 @@ display: flex;
 }
 
 .sectionCategoryHorizontal .categoryContianer .widgetCategory{
-    width: calc(100%/2);
+    width: calc(100%/2 - 10px);
+
 
 
 }
