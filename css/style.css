@@ -589,7 +589,7 @@ overflow: auto;
 }
 
 .header__nav .nav .nav-item img{
-    filter: invert(1) brightness(20.5) !important;
+    filter: brightness(0) invert(1);
 
 }
 body.darkV .header__nav .nav .nav-item img{
