@@ -1275,13 +1275,12 @@ display: flex;
 
 
 .MostViewsContainer .items .element .news-left ul li:last-child{
-    margin: 0px auto 0px 5px;
-    font-size: 16px;
+     margin: 0px auto 0px 5px;
+    font-size: 20px;
     padding: 7px;
     background: #dee2e6;
     border-radius: 5px;
-    
-    font-family: 'alhassade';
+    font-family: 'alhassadeR';
     display: flex;
     align-items: center;
     
