@@ -3221,6 +3221,12 @@ body.darkV .sectionCategoryHorizontal {
 
 }
 
+
+body.darkV .titleWidgetMostViews .article__links, .titleCatWidget .article__links{
+        color: #ededf1;
+
+}
+
 body.darkV  .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item{
         border-bottom: 1px solid#4e4c4c;
 
