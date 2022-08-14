@@ -3217,7 +3217,7 @@ body.darkV .sectionCategory .categoryContianer .card-category .article-list li a
 
 
 body.darkV .sectionCategoryHorizontal {
-    background-image: linear-gradient(rgb(0 0 0 / 50%), transparent);
+    background-image: linear-gradient(rgb(0 0 0 / 50%), transparent) !important;
 
 }
 
