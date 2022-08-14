@@ -213,7 +213,8 @@ align-items: center;
 
 .text-muted {
     color: #6d7278!important;
-        font-family: 'sadan-toshiba';
+        font-family: 'alhassadeR';
+    display: flex;
 
 }
 
