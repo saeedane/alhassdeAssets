@@ -3216,8 +3216,9 @@ body.darkV .sectionCategory .categoryContianer .card-category .article-list li a
 }
 
 
-body.darkV .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item .card .article__title a{
-    color: black !important;
+body.darkV .sectionCategoryHorizontal {
+    background-image: linear-gradient(rgb(0 0 0 / 50%), transparent);
+
 }
 
 body.darkV  .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item{
