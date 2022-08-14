@@ -3222,7 +3222,7 @@ body.darkV .sectionCategoryHorizontal {
 }
 
 
-body.darkV .titleWidgetMostViews .article__links, .titleCatWidget .article__links{
+body.darkV .titleCatWidget .article__links{
         color: #ededf1;
 
 }
