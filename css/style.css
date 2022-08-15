@@ -1007,6 +1007,11 @@ font-size: 21px;
 
 }
 
+  .sidebar .card  .article__body span{
+        font-family: 'alhassade';
+
+  }
+
  .sidebar .widgetMostNews .list-news li:first-child::before{
     opacity: 0;
     
