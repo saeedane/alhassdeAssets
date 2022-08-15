@@ -943,9 +943,10 @@ margin: 0px !important;
 }
 .widgetLastNews .card .article__body  p{
     font-family: 'IBMPlexSansArabicR';
-    color:black;
+    color:var(--dark-text);
     font-size: 18px;
     margin-bottom: auto;
+    
 }
 
 body.darkV .widgetLastNews .card .article__body p{
