@@ -3134,11 +3134,12 @@ body.darkV .newsWithSidebar .sidebar:nth-child(9){
 }
 
 
-body.darkV  .newsWithSidebar .sidebar:nth-child(6){
+body.darkV  .newsWithSidebar .sidebar:last-child,body.darkV .newsWithSidebar .sidebar:first-child{
 background: transparent;
     color: white;
        box-shadow: none;
 }
+
 
 
 body.darkV .cat_name,.download_count {
