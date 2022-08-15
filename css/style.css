@@ -1099,10 +1099,16 @@ padding: 15px;
 }
 
 
-.cat_name,.download_count {
-    font-family: 'alhassade';
-    font-size: 23px;
-    color:black;
+.newsWithSidebar  .widgetLastNews .article__body {
+        display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+}
+
+.newsWithSidebar  .widgetLastNews .card-title {
+        margin-bottom: auto;
+
 }
 
 .newsWithSidebar  .widgetLastNews .article__body .element:first-child{
