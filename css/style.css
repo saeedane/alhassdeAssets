@@ -922,17 +922,7 @@ margin: 0px !important;
 
 
 
-.titleWidget:before,.titleWidget:before{
-    width: 40px;
-    background: url(https://www.awras.com/wp-content/themes/NewsAwress/assets/img/icons/Arrows-Left.svg);
-    content: "";
-    left: 0px;
-    position: absolute;
-    height: 20px;
-    top: 23px;
-    background-repeat: no-repeat !important;
-    background-size: contain;
-}
+
 
 
 .widgetLastNews .card .article__body .card-title a{
