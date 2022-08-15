@@ -890,21 +890,6 @@ margin: 0px !important;
     font-size: 28px;
 }    
 
-/* widget card pdf  */
-
-.newsWithSidebar .sidebar .card .article__body a.redmore{
- 
-  font-size: 18px !important;
-    position: relative;
-    padding: 3px 4px;
-    border: 2px solid#000;
-    width: 113px;
-    color: black;
-    font-family: 'alhassade';
-}
-    
-    
-
 
 
 
@@ -1015,9 +1000,10 @@ border-radius: 100px;
     margin-bottom: 20px;
 }
 
-  .sidebar .card  .article__body a:first-child{
+  .sidebar .card  .article__body .article__title{
 font-size: 25px;
-    font-family: 'alhassade';
+    font-family: 'sadan-toshiba';
+    color: white;
 
 }
 
