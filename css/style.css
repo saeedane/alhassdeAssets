@@ -948,6 +948,10 @@ margin: 0px !important;
     margin-bottom: auto;
 }
 
+body.darkV .widgetLastNews .card .article__body p{
+    color: #a5a5a5;
+
+}
 
 .widgetLastNews .image-rectangle{
     height:200px !important;
