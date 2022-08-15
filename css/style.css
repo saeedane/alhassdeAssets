@@ -1009,6 +1009,7 @@ border-radius: 100px;
   .sidebar .card  .article__body .article__title{
 position: relative;
     display: inline-block;
+    margin-bottom: 10px;
 }
   .sidebar .card  .article__body .article__title:before {
     position: absolute;
