@@ -44,16 +44,7 @@ h1{
 
 
 
-.titleWidget h2:before {
 
-    content: '';
-    position: absolute;
-    right: 0;
-    top: 26px;
-    width: 8px;
-    height: 8px;
-    background: #c61c20;
-}
 
 
 .titleCatWidget{
