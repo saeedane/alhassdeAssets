@@ -1006,6 +1006,39 @@ border-radius: 100px;
     font-family: 'alhassade';
 }
 
+
+  .sidebar .card  .article__body .article__title:before {
+    position: absolute;
+    top: 0;
+    left: auto;
+    bottom: auto;
+    right: 0;
+    width: 7px;
+    height: 7px;
+    content: '';
+    pointer-events: none;
+    opacity: .5;
+    border-top: 2px solid #ffffff;
+    border-right: 2px solid white;
+}
+
+  .sidebar .card  .article__body .article__title:after {
+    
+    position: absolute;
+    top: auto;
+    left: 0;
+    bottom: 0;
+    right: auto;
+    width: 7px;
+    height: 7px;
+    content: '';
+    pointer-events: none;
+    opacity: .5;
+    border-top: 2px solid #ffffff;
+    border-right: 2px solid white;
+  }
+
+
   .sidebar .card  .article__body span{
         font-family: 'alhassade';
 
