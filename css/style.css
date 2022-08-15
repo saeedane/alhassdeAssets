@@ -942,9 +942,9 @@ margin: 0px !important;
 
 }
 .widgetLastNews .card .article__body  p{
-    font-family: 'Awras-Emir';
-    color: var(--secondary);
-    font-size: 19px;
+    font-family: 'IBMPlexSansArabicR';
+    color:black;
+    font-size: 18px;
     margin-bottom: auto;
 }
 
