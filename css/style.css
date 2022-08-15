@@ -1006,7 +1006,10 @@ border-radius: 100px;
     font-family: 'alhassade';
 }
 
-
+  .sidebar .card  .article__body .article__title{
+position: relative;
+    display: inline-block;
+}
   .sidebar .card  .article__body .article__title:before {
     position: absolute;
     top: 0;
@@ -1022,8 +1025,10 @@ border-radius: 100px;
     border-right: 2px solid white;
 }
 
+
+
   .sidebar .card  .article__body .article__title:after {
-    
+
     position: absolute;
     top: auto;
     left: 0;
@@ -1034,8 +1039,8 @@ border-radius: 100px;
     content: '';
     pointer-events: none;
     opacity: .5;
-    border-top: 2px solid #ffffff;
-    border-right: 2px solid white;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid white;
   }
 
 
