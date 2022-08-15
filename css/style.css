@@ -212,11 +212,11 @@ align-items: center;
 
 
 .text-muted {
-    color: #6d7278!important;
-        font-family: 'alhassadeR';
+        font-family: 'IBMPlexSansArabicR';
     display: flex;
     align-items: center;
         font-size: 18px;
+    color: #969aa2 !important;
 
 
 }
@@ -946,7 +946,7 @@ margin: 0px !important;
     color:var(--dark-text);
     font-size: 18px;
     margin-bottom: auto;
-    
+
 }
 
 body.darkV .widgetLastNews .card .article__body p{
