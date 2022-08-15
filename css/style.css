@@ -1012,6 +1012,10 @@ font-size: 21px;
 
   }
 
+    .sidebar .card  .article__body .text-muted{
+        color: white;
+    }
+
  .sidebar .widgetMostNews .list-news li:first-child::before{
     opacity: 0;
     
