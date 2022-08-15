@@ -912,7 +912,10 @@ margin: 0px !important;
 
 
 
+.widgetLastNews {
+        width: 820px;
 
+}
 
 
 
@@ -953,6 +956,9 @@ body.darkV .widgetLastNews .card .article__body p{
 .newsWithSidebar  .sidebar__widgets .swiper-pagination-bullet-active {
     background-color: #c61c20;
 }
+
+
+/* custom style sidebar  */
 
 .sidebar{
     margin-bottom: 20px;
@@ -1843,8 +1849,11 @@ ul.shareThis {
 }
 
 .category-newspaper .download_count{
-
 font-size: 21px;
+    font-size: 21px;
+    font-family: 'alhassade';
+    align-items: center;
+    color: #bb1d21 !important;
 }
 
 .category-newspaper .download_count:before{
