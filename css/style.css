@@ -1001,10 +1001,9 @@ border-radius: 100px;
 }
 
   .sidebar .card  .article__body .article__title a{
-font-size: 21px;
-    font-family: 'sadan-toshiba';
     color: white;
-
+    font-size: 43px;
+    font-family: 'alhassade';
 }
 
   .sidebar .card  .article__body span{
