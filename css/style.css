@@ -945,6 +945,7 @@ margin: 0px !important;
     font-family: 'Awras-Emir';
     color: var(--secondary);
     font-size: 19px;
+    margin-bottom: auto;
 }
 
 
@@ -1106,10 +1107,7 @@ padding: 15px;
     flex-direction: column;
 }
 
-.newsWithSidebar  .widgetLastNews .card-title {
-        margin-bottom: auto;
 
-}
 
 .newsWithSidebar  .widgetLastNews .article__body .element:first-child{
     margin-left: auto;
