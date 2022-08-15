@@ -1012,7 +1012,7 @@ border-radius: 100px;
   }
 
     .sidebar .card  .article__body .text-muted{
-        color: white;
+        color: white !important;
     }
 
  .sidebar .widgetMostNews .list-news li:first-child::before{
