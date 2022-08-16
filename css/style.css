@@ -910,6 +910,7 @@ margin: 0px !important;
     font-family: 'alhassade';
     font-size: 42px;
         margin-bottom: 20px;
+        position: relative;
 
 }
 .widgetLastNews .titleWidget h2{
