@@ -1066,7 +1066,6 @@ position: relative;
     height: 10px;
     content: '';
     pointer-events: none;
-    opacity: .5;
     border-top: 2px solid #ffffff;
     border-right: 2px solid white;
 }
