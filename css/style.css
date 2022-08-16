@@ -996,13 +996,13 @@ margin-left: 7px;
 
     }
 .newsWithSidebar .sidebar:nth-child(6) .titleWidget h2:before{
-    width: 40px;
+   width: 40px;
     background: url(//www.awras.com/static/icons/feather.svg);
     content: "";
     right: 0px;
     position: absolute;
-    height: 20px;
-    top: 23px;
+    height: 40px;
+    top: 15px;
     background-repeat: no-repeat !important;
     background-size: contain;
 }
