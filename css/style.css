@@ -913,7 +913,7 @@ margin: 0px !important;
 
 }
 .widgetLastNews .titleWidget h2{
-        border-bottom: 2px solid#28a745;
+        border-bottom: 2px solid#e5b90f;
 
 }
 
@@ -990,6 +990,11 @@ margin-left: 7px;
     border-bottom: 2px solid#dc3545;
 
     }
+    .newsWithSidebar .sidebar:nth-child(2) .titleWidget h2{
+            border-bottom: 2px solid#28a745;
+
+    }
+
 
     .newsWithSidebar .sidebar:nth-child(6) .titleWidget h2{
     border-bottom: 2px solid#5d8d9d;
@@ -1009,6 +1014,9 @@ margin-left: 7px;
     background-repeat: no-repeat !important;
     background-size: contain;
 }
+
+.newsWithSidebar .sidebar:nth-child(6) .titleWidget h2:before
+
 
   .sidebar .card  .article__body .text-time{
         font-size: 18px;
