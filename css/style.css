@@ -3577,9 +3577,7 @@ body.darkV .footerContainer .nav-link{
     .mobileNone{
     display:none !important;
     }
-    .titleWidget h2{
-        font-size:22px !important; 
-    }
+
     
     .w-logo{
         width:230px;
