@@ -962,7 +962,9 @@ body.darkV .widgetLastNews .card .article__body p{
 /* custom style sidebar  */
 
 
-
+ .sidebar{
+    margin-bottom: 20px;
+ }
 
 
   .sidebar .card .image-thumbnail{
