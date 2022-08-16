@@ -1074,7 +1074,6 @@ position: relative;
 
 
   .sidebar .card  .article__body .article__title:after {
-
     position: absolute;
     top: auto;
     left: 0;
@@ -1084,7 +1083,6 @@ position: relative;
     height: 10px;
     content: '';
     pointer-events: none;
-    opacity: .5;
     border-bottom: 2px solid #ffffff;
     border-left: 2px solid white;
   }
