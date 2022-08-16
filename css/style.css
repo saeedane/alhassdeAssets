@@ -1108,7 +1108,7 @@ position: relative;
 
   }
 
-    .sidebar .card  .article__body .text-muted{
+    .sidebar:first-child .card  .article__body .text-muted{
         color: white !important;
     }
 
