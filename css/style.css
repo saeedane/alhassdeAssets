@@ -821,6 +821,7 @@ font-size:24px;
 
 .banarContainer .articles-list .article__item:nth-child(2){
     grid-area: section-article-1;
+    margin-bottom: 10px;
     
 }
 
