@@ -1022,10 +1022,22 @@ margin-left: 7px;
 
     }
 
+     .newsWithSidebar .sidebar:nth-child(2) .titleWidget h2:before{
+        border-top: 2px solid #28a745;
+    border-right: 2px solid #28a745;
+
+ }
+
    .newsWithSidebar .sidebar:nth-child(4) .titleWidget h2{
             border-bottom: 2px solid#007bff;
 
     }
+
+         .newsWithSidebar .sidebar:nth-child(4) .titleWidget h2:before{
+        border-top: 2px solid #007bff;
+    border-right: 2px solid #007bff;
+
+ }
 
     .newsWithSidebar .sidebar:nth-child(6) .titleWidget h2{
     border-bottom: 2px solid#5d8d9d;
@@ -1034,6 +1046,12 @@ margin-left: 7px;
 
 
     }
+
+             .newsWithSidebar .sidebar:nth-child(6) .titleWidget h2:before{
+        border-top: 2px solid #5d8d9d;
+    border-right: 2px solid #5d8d9d;
+
+ }
 .newsWithSidebar .sidebar:nth-child(6) .titleWidget h2:before{
    width: 40px;
     background: url(//www.awras.com/static/icons/feather.svg);
