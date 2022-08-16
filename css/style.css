@@ -3585,7 +3585,7 @@ body.darkV .footerContainer .nav-link{
     
     .newsWithSidebar .sidebar .card .card-img-top{
         width :100% !important;
-        height:93px !important;
+        height:100% !important;
     }   
 
 
