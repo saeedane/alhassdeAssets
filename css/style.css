@@ -917,6 +917,24 @@ margin: 0px !important;
 
 }
 
+.titleWidget h2:before{
+    position: absolute;
+    top: 11px;
+    right: -5px;
+    bottom: 0;
+    left: auto;
+    width: 10px;
+    height: 10px;
+    content: '';
+    pointer-events: none;
+
+}
+
+.widgetLastNews .titleWidget h2:before{
+        border-top: 2px solid #e5b90f;
+    border-right: 2px solid #e5b90f;
+}
+
 .widgetLastNews .card .article__body .card-title a{
     font-size: 28px;
         font-family: 'alhassade';
@@ -990,6 +1008,14 @@ margin-left: 7px;
     border-bottom: 2px solid#dc3545;
 
     }
+
+ .newsWithSidebar .sidebar:first-child .titleWidget h2:before{
+        border-top: 2px solid #dc3545;
+    border-right: 2px solid #dc3545;
+
+ }
+
+
     .newsWithSidebar .sidebar:nth-child(2) .titleWidget h2{
             border-bottom: 2px solid#28a745;
 
