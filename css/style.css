@@ -985,6 +985,11 @@ margin-left: 7px;
 }
 
 
+    .newsWithSidebar .sidebar:nth-child(6) .titleWidget h2{
+    border-bottom: 2px solid#5d8d9d;
+
+    }
+
 
   .sidebar .card  .article__body .text-time{
         font-size: 18px;
@@ -3609,10 +3614,7 @@ body.darkV .footerContainer .nav-link{
     }
 
 
-    .newsWithSidebar .sidebar:nth-child(6) .titleWidget h2{
-    border-bottom: 2px solid#5d8d9d;
 
-    }
 
 .newsWithSidebar .sidebar__widgets{
             width:100% !important;
