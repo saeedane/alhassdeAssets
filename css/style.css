@@ -3183,13 +3183,7 @@ body.darkV .titleWidget:before{
         filter: invert(1) brightness(20.5) !important;
 
 }
-body.darkV  .newsWithSidebar .sidebar,body.darkV .newsWithSidebar .widget-news{
-    background-color: transparent !important;
-    border: 1px #505050 solid;
-    border-radius: 5px;
-    box-shadow: 1px 1px 12px #000;
 
-}
 
 
 body.darkV .newsWithSidebar .sidebar:nth-child(9){
