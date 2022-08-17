@@ -4357,6 +4357,11 @@ border-radius: 0px;
 
 
 /* animation css  */
+
+.thumbnail-container.animate-lazy>img{
+        opacity: 0;
+
+}
 .thumbnail-container:after {
     content: "";
     opacity: 1;
