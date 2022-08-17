@@ -2315,6 +2315,14 @@ body.darkV  .download_count{
 }
 
 
+.page-content .article__hero .article__body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
 
 
 .page-content .article__hero .article__subtitle {
@@ -2323,6 +2331,7 @@ body.darkV  .download_count{
     font-family: 'IBMPlexSansArabicR';
     padding-left: 30px;
     color: #969aa2;
+    margin-bottom: auto;
 
 }
 
