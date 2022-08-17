@@ -4359,6 +4359,23 @@ display: block;
     z-index: -2;
 }
 
+.alhassade-thumb, .thumbnail-container {
+    position: relative;
+    overflow: hidden;
+    z-index: 0;
+}
+
+.thumbnail-container>img {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    min-height: 100%;
+    color: #a0a0a0;
+    z-index: -1;
+}
+
 .lazyloaded, .thumbnail-background>div.lazyloaded {
     opacity: 1!important;
     transition: opacity .4s ease;
