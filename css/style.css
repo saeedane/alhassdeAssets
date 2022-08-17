@@ -4372,3 +4372,8 @@ border-radius: 0px;
     z-index: -2;
 }
 
+.lazyloaded, .thumbnail-background>div.lazyloaded {
+    opacity: 1!important;
+    transition: opacity .4s ease;
+}
+
