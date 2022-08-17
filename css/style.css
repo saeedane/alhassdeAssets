@@ -420,6 +420,9 @@ body.darkV .page-search .summary__query{
     color: white;
 }
 
+.page-search .search-summary__options-title{
+    color: #5f5f5f;
+}
 
 .page-search .summary__query{
 margin-left: auto;
