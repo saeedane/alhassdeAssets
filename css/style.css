@@ -298,20 +298,7 @@ img[data-src][src] {
     background-color: #f2f2f2;
 }
 
-.bg-img {
-display: block;
-    max-width: 100%!important;
-    -o-object-fit: cover;
-    object-fit: cover;
-    position: relative;
-    -o-object-position: center;
-    object-position: center;
-    font-size: 0;
-    background-color: #f7f7f9;
-       height: auto;
 
-
-}
 
 .card-img, .card-img-top{
     -o-object-fit: cover;
