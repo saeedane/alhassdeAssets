@@ -4336,10 +4336,7 @@ border-radius: 0px;
 
 /* animation css  */
 
-.thumbnail-container.animate-lazy>img{
-        opacity: 0;
 
-}
 .thumbnail-container:after {
     content: "";
     opacity: 1;
@@ -4360,3 +4357,7 @@ border-radius: 0px;
     transition: opacity .4s ease;
 }
 
+.thumbnail-container.animate-lazy>img{
+        opacity: 0 !important;
+
+}
