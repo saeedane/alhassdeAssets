@@ -420,8 +420,15 @@ body.darkV .page-search .summary__query{
     color: white;
 }
 
-.page-search .search-summary__options-title{
+body.darkV .page-search .search-summary__options-title{
     color: #5f5f5f;
+}
+
+
+
+body.darkV .page-search .search-summary__select select{
+          background: #050404;
+    color: white;
 }
 
 .page-search .summary__query{
@@ -448,11 +455,12 @@ margin-left: auto;
 
 }
 .page-search .search-summary__select select{
-        width: 130px;
+        width: 80px;
     text-align: center;
     border: 1px solid#000;
-    padding: 2px;
-    font-family: 'Awras-Emir';
+    padding: 5px;
+    font-family: 'alhassadeR';
+    font-size: 22px;
 }
 
 
