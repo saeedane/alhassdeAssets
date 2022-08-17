@@ -239,16 +239,7 @@ font-family: "sadan-toshiba";color: "black";
 }
 
 
-img[data-src] {
-  transition: opacity .25s ease-in-out;
-  will-change: opacity;
-  opacity:0;
-}
 
-/* appear animation */
-img[data-src][src] {
-  opacity: 1;
-}
 
 
 /* header code */
