@@ -2455,6 +2455,8 @@ body.darkV  .download_count{
 .page-content .widgetColum  h2{
         font-size: 30px;
             font-family: 'alhassade';
+              display: flex;
+    align-items: center;  
 
 
 }
