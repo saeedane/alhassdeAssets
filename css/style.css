@@ -4356,5 +4356,19 @@ border-radius: 0px;
 }
 
 
-
+/* animation css  */
+.thumbnail-container:after {
+    content: "";
+    opacity: 1;
+    background: #f7f7f9 url(https://cdn.tadamsanews.dz/wp-content/themes/jnews/assets/dist/image/preloader.gif);
+    background-position: 50%;
+    background-size: cover;
+    position: absolute;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -2;
+}
 
