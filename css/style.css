@@ -3121,6 +3121,11 @@ body.darkV {
 }
 
 
+body.darkV .newsWithSidebar .sidebar:nth-child(5) .titleWidget h2 a{
+
+color: white;
+}
+
 body.darkV  .article__bottom  .text-muted{
     color: #ededf1!important;
     
