@@ -2902,7 +2902,10 @@ padding: 2px;
     font-size: 22px;
 
 }
-
+.media.singleComent .comment-reply-link{
+        font-family: sadan-toshiba;
+    font-size: 20px;
+}
 
 .media.singleComent:last-child {
     border: 0px !important;
