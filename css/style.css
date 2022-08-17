@@ -405,7 +405,7 @@ body.darkV .header-bottom .header_search .desktop_search form#mobileSearch{
 .page-search .search-summary{
      display: flex;
     align-items: center;
-    border-bottom: 1px solid#ddd;
+    border-bottom: 1px solid#373737;
     padding: 10px 0;
     margin-bottom: 20px;   
 }
