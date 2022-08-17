@@ -2339,6 +2339,9 @@ body.darkV  .download_count{
         font-family: 'alhassade';
     font-size: 25px;
 }
+.page-content .article__hero  .cat_name .img{
+    margin-left: 10px;
+}
 
 
 
