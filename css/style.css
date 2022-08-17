@@ -2643,6 +2643,8 @@ object-fit: cover;
     font-family: 'sadan-toshiba';
 margin-right: 8px;
     text-align: center;
+        font-size: 18px;
+
 
 }
 
@@ -2895,8 +2897,9 @@ padding: 2px;
 /*** comment list ****/
 
 .media.singleComent p{
-    font-family: 'sadan-toshiba';
+    font-family: alhassadeR;
         color: #373c59cc !important;
+    font-size: 22px;
 
 }
 
