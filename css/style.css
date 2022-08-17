@@ -2763,7 +2763,11 @@ margin-right: 8px;
 
 }
 .comentsArea .header__comment .comment-summary__select select {
-    padding: 2px;
+padding: 2px;
+    font-family: 'alhassadeR';
+    font-size: 20px;
+    width: 80px;
+
 }
 .comentsArea .header__comment .comment-summary__select label{
     font-family: 'alhassade';
@@ -2794,6 +2798,8 @@ margin-right: 8px;
     background-color: var(--palette-grey-100) !important;
     border-color: var(--palette-grey-300) !important;
     color: var(--palette-text-500) !important;
+        font-family: 'alhassadeR';
+    font-size: 18px;
 }
 
 
@@ -2825,6 +2831,8 @@ margin-right: 8px;
     width: 100%;
     margin-bottom: 20px;
     border-radius:6px;
+        font-family: 'alhassadeR';
+
 }
 
 .coment_options {
