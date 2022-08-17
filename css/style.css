@@ -405,10 +405,21 @@ body.darkV .header-bottom .header_search .desktop_search form#mobileSearch{
 .page-search .search-summary{
      display: flex;
     align-items: center;
-    border-bottom: 1px solid#373737;
+    border-bottom: 1px solid#e6e6e6;
     padding: 10px 0;
     margin-bottom: 20px;   
 }
+
+body.darkV .page-search .search-summary{
+        border-bottom: 1px solid   #383838
+
+
+}
+
+body.darkV .page-search .summary__query{
+    color: white;
+}
+
 
 .page-search .summary__query{
 margin-left: auto;
