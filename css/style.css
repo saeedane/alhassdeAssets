@@ -2452,12 +2452,21 @@ body.darkV  .download_count{
 }
 
 
+.page-content .widgetColum  h2{
+        font-size: 30px;
+            font-family: 'alhassade';
+
+
+}
 
 .page-content .article__section .releted_widget, .page-content .article__section .readAlsoBox   {
     border: 1px solid#efefef;
     padding:0px 17px; 
 
 } 
+
+
+
 
 
 .page-content .article__section .readAlsoBox {
