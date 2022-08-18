@@ -1713,7 +1713,6 @@ background-repeat: no-repeat;
 }
 
 .archive__featured .featured__articles .article__item .card-img-top{
-        margin-top: 15px;
         object-fit: cover;
     object-position: center;
 
