@@ -4400,7 +4400,14 @@ border-radius: 0px;
 
 
 }
+
+
 .archive__container .archive__side .archiveContList .card .thumbnail-container>img,.page-search .archive__side .archiveContList .card  .thumbnail-container>img{
         min-height: 220px !important;
+
+}
+
+body.darkV .thumbnail-container:after {
+    background: #f7f7f7 url(https://video.jnews.io/wp-content/themes/jnews/assets/img/preloader-dark.gif) !important;
 
 }
