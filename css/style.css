@@ -4374,6 +4374,7 @@ border-radius: 0px;
 
 .thumbnail-container.animate-lazy>img {
     opacity: 0;
+    position: relative;
 }
 
 .lazyloaded {
