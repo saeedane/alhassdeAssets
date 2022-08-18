@@ -3824,6 +3824,7 @@ border-top-right-radius: 8px !important;
 .banarContainer  .articles-list .article__item  .article__body{
     flex: 0 0 58.333333%;
     max-width: 58.333333%;
+    padding: 0px !important;
 }
 
 .banarContainer .articles-list .article__item .card-body a{
