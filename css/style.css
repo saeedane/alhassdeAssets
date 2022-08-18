@@ -4356,7 +4356,6 @@ display: block;
     left: 0;
     right: 0;
     bottom: 0;
-    z-index: -2;
 }
 
 
@@ -4371,4 +4370,8 @@ display: block;
 .thumbnail-container.animate-lazy>img{
         opacity: 0 ;
 
+}
+
+.thumbnail-container div.lazyloaded:after{
+    z-index: -2;
 }
