@@ -1781,6 +1781,17 @@ font-size: 18px;
 }
 
 
+.archive__container  .archive__side .card .article__body {
+        display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+
+.archive__container  .archive__side .card .article__body  p{
+    margin-bottom: auto;
+}
+
 /*   category-video archive */
 
 .newsbanarTop {
