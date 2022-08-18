@@ -4336,15 +4336,42 @@ border-radius: 0px;
 
 /* animation css  */
 
-img[data-src] {
-  opacity: 0;
-  transition: opacity .25s ease-in-out;
-  will-change: opacity;
+
+
+.thumbnail-container {
+    display: block;
+    height: 0;
+    background: #f7f7f7;
+    background-position: 50%;
+    background-size: cover;
 }
 
-/* appear animation */
-img[data-src][src] {
-  opacity: 1;
+.thumbnail-container:after {
+    content: "";
+    opacity: 1;
+    background: #f7f7f7 url(image/preloader.gif);
+    background-position: 50%;
+    background-size: cover;
+    position: absolute;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -2;
 }
 
+ .alhassade-thumb .thumbnail-container, .alhassade-thumb:after, .alhassade-thumb:before {
+    opacity: 1;
+    -webkit-transition: opacity .3s ease-in-out;
+    transition: opacity .3s ease-in-out;
+}
 
+.thumbnail-container.animate-lazy>img {
+    opacity: 0;
+}
+
+.lazyloaded {
+    opacity: 1!important;
+    transition: opacity .4s ease;
+}
