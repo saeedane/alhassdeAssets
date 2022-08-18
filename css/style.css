@@ -4345,9 +4345,7 @@ border-radius: 0px;
 
 
 .alhassade-thumb{
-        height: 100%;
     overflow: hidden;
-    width: 100%;
     position: relative;
 }
 
