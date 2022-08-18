@@ -4408,6 +4408,8 @@ border-radius: 0px;
 }
 
 body.darkV .thumbnail-container:after {
-    background: #f7f7f7 url(https://video.jnews.io/wp-content/themes/jnews/assets/img/preloader-dark.gif) !important;
+
+        background-color: var(--j-darkgrey-bg-color);
+    background-image: url(https://video.jnews.io/wp-content/themes/jnews/assets/img/preloader-dark.gif);
 
 }
