@@ -3635,6 +3635,14 @@ body.darkV .footerContainer .nav-link{
 }
 
 @media only screen and (max-width: 767px) {
+
+    .category-newspaper .download_count{
+            font-size: 19px;
+
+    }
+    .category-newspaper .card-title {
+    font-size: 20px;
+}
     
     .mobileNone{
     display:none !important;
