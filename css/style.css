@@ -4396,4 +4396,10 @@ border-radius: 0px;
     min-height: 100%;
     color: #a0a0a0;
     z-index: 2;
+
+
+}
+.archive__container .thumbnail-container>img{
+        min-height: 220px !important;
+
 }
