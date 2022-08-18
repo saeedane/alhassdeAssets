@@ -4349,7 +4349,7 @@ border-radius: 0px;
 .thumbnail-container:after {
     content: "";
     opacity: 1;
-    background: #f7f7f7 url(image/preloader.gif);
+    background: #f7f7f7 url(https://cdn.tadamsanews.dz/wp-content/uploads/2021/10/orrr-1080x570.jpeg);
     background-position: 50%;
     background-size: cover;
     position: absolute;
