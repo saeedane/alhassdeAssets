@@ -1736,7 +1736,7 @@ background-repeat: no-repeat;
 
 .archive__featured .featured__articles .article__item .article__body .card-text{
     
-        font-size: 19px;
+        font-size: 18px;
     padding-bottom: 23px;
     font-family: 'IBMPlexSansArabicR';
 
@@ -1754,7 +1754,7 @@ background-repeat: no-repeat;
 .archive__featured .featured__articles .article__item:nth-child(1) .article__body  .card-text{
     
 
-font-size: 19px;
+font-size: 18px;
     padding-bottom: 23px;
     
 }
