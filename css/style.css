@@ -4393,7 +4393,7 @@ border-radius: 0px;
     bottom: 0;
     left: 0;
     width: 100%;
-    min-height: 100%;
+    min-height: 220px;
     color: #a0a0a0;
     z-index: 2;
 }
