@@ -4338,13 +4338,7 @@ border-radius: 0px;
 
 
 
-.thumbnail-container {
-    display: block;
-    height: 0;
-    background: #f7f7f7;
-    background-position: 50%;
-    background-size: cover;
-}
+
 
 .thumbnail-container:after {
     content: "";
