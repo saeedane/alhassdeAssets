@@ -4370,11 +4370,6 @@ border-radius: 0px;
     transition: opacity .4s ease;
 }
 
-.alhassade-thumb, .thumbnail-container {
-    position: relative;
-    overflow: hidden;
-    z-index: 0;
-}
 
 .thumbnail-container>img {
     position: absolute;
