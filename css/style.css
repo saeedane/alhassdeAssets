@@ -3715,6 +3715,11 @@ body.darkV .footerContainer .nav-link{
     
     }
 
+.widgetLastNews .card .no-gutters{
+flex-direction: row-reverse;
+}
+
+
 
       .widgetLastNews .card .article__body .card-title {
         margin-top: 20px !important
