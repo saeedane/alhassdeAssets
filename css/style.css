@@ -44,7 +44,9 @@ h1{
 
 
 
-
+.badge-danger {
+    background-color: #ba1b1b;
+}
 
 
 .titleCatWidget{
