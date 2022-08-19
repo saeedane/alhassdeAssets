@@ -187,8 +187,9 @@ function updateURLParameter(url, param, paramVal){
         window.history.replaceState('', '', updateURLParameter(window.location.href, "sort", optionValue));
 
         const value = jQuery('#d-search').attr('data-search-value');
+        const type = $(this).attr('data-type');
 
-    var data = {'action':'alhassade_live_search','query':value,'option' :optionValue,'post_type' : 'post' };
+    var data = {'action':'alhassade_live_search','query':value,'option' :optionValue,'post_type' : type };
 
 
     jQuery.post(frontendajax.ajaxurl,data, function(response) {
