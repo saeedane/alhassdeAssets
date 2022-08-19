@@ -2107,9 +2107,12 @@ body.darkV  .download_count{
     border-radius:0px;
 }
 
-
-
-
+.pagination-lg .page-item:nth-child(2){
+    margin-right: auto;
+}
+.pagination-lg .page-item:nth-child(6){
+    margin-left: auto;
+}
 /* pagination ajax redmore  */
 
   .loading-button{
