@@ -195,9 +195,9 @@ function updateURLParameter(url, param, paramVal){
     jQuery.post(frontendajax.ajaxurl,data, function(response) {
         
       if(jQuery.trim(response) != '' ) {
-           jQuery('.archiveContList,.colent_list  ').html(response);
+           jQuery('.archiveContList,.colent_list,.article__list   ').html(response);
        }else{
-          jQuery('.archiveContList,.colent_list  ').html('');
+          jQuery('.archiveContList,.colent_list,.article__list  ').html('');
    
        }
            
