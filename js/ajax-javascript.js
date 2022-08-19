@@ -182,7 +182,7 @@ function updateURLParameter(url, param, paramVal){
 }
 
 
-   jQuery("#search-sort-option").change(function() {
+   jQuery("#sort-option").change(function() {
         var optionValue = $(this).val();
         window.history.replaceState('', '', updateURLParameter(window.location.href, "sort", optionValue));
 
