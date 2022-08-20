@@ -3421,7 +3421,7 @@ body.darkV .page-content .article__section .body-text h2{
    }
 
   body.darkV .location img{
-        filter: contrast(0.5);
+    filter: contrast(0.3);
 
   }
  
