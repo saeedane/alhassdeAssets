@@ -2478,10 +2478,10 @@ body.darkV  .download_count{
 }
 
 
-.page-content .article__section .body-text h2{
+.page-content .article__section .body-text strong{
         margin: 20px 0px;
     font-family: 'alhassade';
-    font-size: 50px;
+    font-size: 41px;
 }
 
 
