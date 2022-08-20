@@ -188,7 +188,7 @@ function updateURLParameter(url, param, paramVal){
 
         const value = jQuery('#d-search').attr('data-search-value');
         const type = $(this).attr('data-type');
-        const postIDs = $(this).attr('data-post-id');
+        const postID = $(this).attr('data-post-id');
 
     var data = {'action':'alhassade_live_search','query':value,'option' :optionValue,'post_type' : type,'postID':postID };
 
