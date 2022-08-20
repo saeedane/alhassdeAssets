@@ -846,6 +846,13 @@ font-size:24px;
     
 }
 
+.banarContainer .articles-list .article__item:nth-child(4) .mostReadeIcon, .banarContainer .articles-list .article__item:nth-child(5) .mostReadeIcon{
+    top: 47px;
+    left: 40px;
+        background: rgb(0 0 0 / 50%);
+
+}
+
 
 .banarContainer .articles-list .article__item:nth-child(4),.banarContainer .articles-list .article__item:nth-child(5){
     width:100%;
