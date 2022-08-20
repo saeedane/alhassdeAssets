@@ -3416,7 +3416,14 @@ body.darkV .page-content .article__section .body-text h2{
 
  }
  
- 
+   body.darkV .location {
+    color: white;
+   }
+
+  body.darkV .location img{
+        filter: contrast(0.5);
+
+  }
  
  body.darkV .tags-block {
     border-bottom: 1px solid#313030 !important;
