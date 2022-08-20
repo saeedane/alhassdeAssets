@@ -190,7 +190,7 @@ function updateURLParameter(url, param, paramVal){
         const type = $(this).attr('data-type');
         const postID = $(this).attr('data-post-id');
 
-    var data = {'action':'alhassade_live_search','query':value,'option' :optionValue,'post_type' : type,'postID' => postID };
+    var data = {'action':'alhassade_live_search','query':value,'option' :optionValue,'post_type' : type,'postID':postID };
 
 
     jQuery.post(frontendajax.ajaxurl,data, function(response) {
