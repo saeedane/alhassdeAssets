@@ -3833,10 +3833,8 @@ flex-direction: row-reverse;
     
 .banarContainer  .articles-list .article__item  .article__image img{
      height: 108px !important;
-            object-fit: cover;
-border-top-right-radius: 8px !important;
+       object-fit: cover;
     border-radius: 0px;
-    border-bottom-left-radius: 8px !important;
 
 
     }
