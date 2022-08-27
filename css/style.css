@@ -955,6 +955,16 @@ display: inline-block;
 }
 
 
+.newsWithSidebar .sidebar {
+    margin-right: auto;
+    width: 390px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    position: relative;
+    border: 1px solid#ededf1;
+}
+
 .widgetLastNews .card .article__body .card-title a{
 font-size: 24px;
     font-family: 'sadan-toshiba';
