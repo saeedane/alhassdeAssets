@@ -577,9 +577,9 @@ overflow: auto;
 
 
 .header-section .navMobile .nav a{
-    font-family: 'alhassade';
+    font-family: 'Awras-Mhidi';
     color: black;
-    font-size: 24px;
+    font-size: 20px;
     padding: 0.5rem 1rem;
     
 
@@ -2061,8 +2061,8 @@ body.darkV .category-newspaper .mobile_search{
 }
 
 .archive__container .archive__side .card-title {
-    font-family: 'alhassade';
-font-size: 27px;
+    font-family: 'sadan-toshiba';
+font-size: 24px;
 }
 
 .archive__container .archive__side  p {
