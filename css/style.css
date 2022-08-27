@@ -920,11 +920,13 @@ z-index: 4;
     font-size: 25px;
         margin-bottom: 20px;
         position: relative;
-            border-bottom: 2px solid #ededf1 !important;
-
+display: inline-block;
 
 }
 
+.newsWithSidebar .sidebar .titleWidget,.widgetLastNews .titleWidget{
+            border-bottom: 2px solid #ededf1 !important;
+}
 
 
 
@@ -945,6 +947,7 @@ z-index: 4;
     padding: 10px 20px;
     margin-bottom: 20px;
     border: 1px solid#ededf1;
+    position: relative;
 }
 
 
