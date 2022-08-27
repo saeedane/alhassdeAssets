@@ -62,8 +62,8 @@ h3 {
 h4 {
     line-height: 1.5;
     font-weight: 900;
-    font-family: 'alhassade';
-    font-size:25px;
+    font-family: 'sadan-toshiba';
+    font-size:21px;
 }
 
 h5 {
@@ -177,7 +177,7 @@ align-items: center;
 }
 
 .card-title{
-    font-family: 'alhassade';
+    font-family: 'sadan-toshiba';
 
 }
 
@@ -767,8 +767,8 @@ font-family: alhassade;
     margin-top: 150px;
 }
 .banarContainer .articles-list .article__item h1{
-    font-size: 70px;
-    font-family: 'alhassade';
+    font-size: 58px;
+    font-family: 'sadan-toshiba';
     margin-bottom:30px;
 
 } 
@@ -1288,8 +1288,8 @@ width: 300px !important;
 
 .newsVideoContainer .videoSlider h4 a{
     color: white !important;
-    font-size: 25px;
-    font-family: 'alhassade';
+    font-size: 21px;
+    font-family: 'sadan-toshiba';
 
 }
 .newsVideoContainer .swiper-image {
