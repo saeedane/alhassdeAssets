@@ -2521,7 +2521,7 @@ body.darkV  .download_count{
 .page-content .article__section .body-text strong{
         margin: 20px 0px;
     font-family: 'sadan-toshiba';
-    font-size: 28px;
+    font-size: 40px;
 }
 
 
@@ -3697,6 +3697,12 @@ body.darkV .footerContainer .nav-link{
 }
 
 @media only screen and (max-width: 767px) {
+
+
+    .page-content .article__section .body-text strong{
+        font-family: 28px !important;
+    }
+
 
     .category-newspaper .download_count{
             font-size: 19px;
