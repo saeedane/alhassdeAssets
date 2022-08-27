@@ -2365,7 +2365,7 @@ body.darkV  .download_count{
 }
 
 .page-content .article__hero .article__title{
-        font-family: 'alhassade';
+        font-family: 'sadan-toshiba';
     font-size: 50px;
     margin-bottom: 20px;
     padding-left: 21px;
@@ -2520,8 +2520,8 @@ body.darkV  .download_count{
 
 .page-content .article__section .body-text strong{
         margin: 20px 0px;
-    font-family: 'alhassade';
-    font-size: 41px;
+    font-family: 'sadan-toshiba';
+    font-size: 28px;
 }
 
 
@@ -2881,9 +2881,9 @@ padding: 2px;
 
 
 .comentsArea  .coment_title{
-        font-family: 'alhassade';
+    font-family: 'Awras-Mhidi';
     margin-bottom: 15px;
-    font-size: 30px;
+    font-size: 25px;
 }
 .comentsArea .header__comment .coment_title {
     margin-bottom: -2px;
@@ -2984,9 +2984,9 @@ padding: 2px;
 /*** comment list ****/
 
 .media.singleComent p{
-    font-family: alhassadeR;
+    font-family: sadan-toshiba;
         color: #373c59cc !important;
-    font-size: 22px;
+    font-size: 20px;
 
 }
 .media.singleComent .comment-reply-link{
