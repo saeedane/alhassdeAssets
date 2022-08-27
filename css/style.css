@@ -931,7 +931,7 @@ display: inline-block;
 
 
 
-.widgetLastNews .titleWidget h2:before{
+.widgetLastNews .titleWidget:before{
     display: block;
     content: "";
     width: 40px;
