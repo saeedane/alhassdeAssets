@@ -1472,7 +1472,9 @@ margin-left: 0px;
 }
 
 
-
+.sectionCategory .categoryContianer .card-category .article-list li a{
+    font-family: 'sadan-toshiba';
+}
 
 .sectionCategory .categoryContianer .card-category .article-list li .article__link-beg{
     font-size: 24px;
