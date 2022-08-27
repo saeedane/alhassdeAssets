@@ -924,13 +924,28 @@ z-index: 4;
 
 
 }
-.widgetLastNews .titleWidget h2{
-        border-bottom: 2px solid#e5b90f;
 
+
+
+
+.widgetLastNews .titleWidget h2: before{
+    display: block;
+    content: "";
+    width: 40px;
+    height: 20px;
+    background: url(https://www.awras.com/wp-content/themes/NewsAwress/assets/img/icons/Arrows-Left.svg);
+    position: absolute;
+    left: 0;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 
-
+.widgetLastNews {
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    border: 1px solid#ededf1;
+}
 
 
 .widgetLastNews .card .article__body .card-title a{
