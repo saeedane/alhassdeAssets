@@ -930,6 +930,8 @@ display: inline-block;
                     display: flex;
                     align-items: center;
                     margin-bottom: 20px;
+                        padding-bottom: 10px;
+
 
 }
 
