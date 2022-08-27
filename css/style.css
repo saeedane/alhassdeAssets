@@ -921,6 +921,7 @@ z-index: 4;
 display: inline-block;
     margin-bottom: -2px;
 
+                        padding-bottom: 10px;
 
 }
 
@@ -930,7 +931,6 @@ display: inline-block;
                     display: flex;
                     align-items: center;
                     margin-bottom: 20px;
-                        padding-bottom: 10px;
 
 
 }
