@@ -920,7 +920,7 @@ z-index: 4;
     font-size: 25px;
         margin-bottom: 20px;
         position: relative;
-            border-bottom: 2px solid #ededf1;
+            border-bottom: 2px solid #ededf1 !important;
 
 
 }
