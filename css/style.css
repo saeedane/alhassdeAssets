@@ -1071,7 +1071,7 @@ margin-left: 7px;
    width: 40px;
     background: url(//www.awras.com/static/icons/feather.svg);
     content: "";
-    right: 0px;
+    left: 0px;
     position: absolute;
     height: 40px;
     top: 0px;
