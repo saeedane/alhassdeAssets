@@ -1977,9 +1977,8 @@ ul.shareThis {
 }
 
 .category-newspaper .download_count{
-font-size: 21px;
-    font-size: 21px;
-    font-family: 'alhassade';
+    font-size: 18px;
+    font-family: 'sadan-toshiba';
     align-items: center;
     color: #bb1d21 !important;
 }
@@ -3702,7 +3701,7 @@ body.darkV .footerContainer .nav-link{
 
     }
     .category-newspaper .card-title {
-    font-size: 20px;
+    font-size: 19px;
 }
     
     .mobileNone{
