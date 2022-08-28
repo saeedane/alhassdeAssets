@@ -342,6 +342,10 @@ font-family: "sadan-toshiba";color: "black";
 }
 
 
+.sticky .header__nav .nav .nav-item img {
+    filter: none;
+}
+
 .header-bottom .header_search{
 position: absolute;
     height: 100%;
