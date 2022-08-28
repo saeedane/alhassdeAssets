@@ -263,7 +263,10 @@ font-family: "sadan-toshiba";color: "black";
 }
 
 
+.sticky .colorChange{
+        background: #bc1521;
 
+}
 
 .border__right:after{
     content: '';
