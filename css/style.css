@@ -344,12 +344,8 @@ font-family: "sadan-toshiba";color: "black";
 
 .sticky .header__nav .nav .nav-item img {
     filter: none;
-    display: none;
 }
 
-.sticky .header__nav .nav .nav-item .sticky-icon{
-    display: block !important;
-}
 
 
 .header-bottom .header_search{
