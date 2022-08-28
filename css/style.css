@@ -1911,7 +1911,7 @@ font-size: 18px;
 
 .newsbanarLeft h3{
     font-family: 'sadan-toshiba';
-    font-size: 40px;
+    font-size: 35px;
 }
 
 .shareNews {
@@ -3683,6 +3683,11 @@ body.darkV .footerContainer .nav-link{
 }
 
 @media only screen and (max-width: 767px) {
+
+
+    .newsbanarLeft h3{
+        font-size: 27px !important;
+    }
 
 
     .page-content .article__section .body-text strong{
