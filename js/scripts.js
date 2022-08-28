@@ -165,14 +165,14 @@ function switchTweetTheme(currentTheme,targetTheme) {
                     $(".sticky .header__logo img").attr('src','https://cdn.alhassadelyoumi.dz/wp-content/uploads/2021/06/El-Hassad-el-yawmi-Logotype-300x233.png');
                     $(".sticky .header__logo img").attr('class','mb-3 mt-2');
                     $(".sticky .header__social .nav  .nav-item .nav-link .sticky-icon").attr('class','d-block');
-                    $(".sticky .header__social .nav  .nav-item .nav-link img").attr('class','d-none');
+                    $(".sticky .header__social .nav  .nav-item .nav-link .simple-icon").attr('class','d-none');
 
                  }else{
                     $(".header_area").removeClass("sticky");
                     $(".header__logo img").attr('src','https://www.awras.com/wp-content/themes/NewsAwress/assets/img/Logo.svg');
                     $(".header__logo img").attr('class','mb-0');
                     $(".sticky .header__social .nav  .nav-item .nav-link .sticky-icon").attr('class','d-none');
-                    $(".sticky .header__social .nav  .nav-item .nav-link img").attr('class','d-block');
+                    $(".sticky .header__social .nav  .nav-item .nav-link .simple-icon").attr('class','d-block');
 
                  }
 
