@@ -163,7 +163,7 @@ function switchTweetTheme(currentTheme,targetTheme) {
 
                     $(".header_area").addClass("sticky");
                     $(".sticky .header__logo img").attr('src','https://cdn.alhassadelyoumi.dz/wp-content/uploads/2021/06/El-Hassad-el-yawmi-Logotype-300x233.png');
-                    $(".header__logo img").attr('class','mb-3');
+                    $(".header__logo img").attr('class','mb-3 mt-2');
 
 
                  }else{
