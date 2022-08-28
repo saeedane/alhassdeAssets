@@ -166,7 +166,7 @@ function switchTweetTheme(currentTheme,targetTheme) {
 
                  }else{
                     $(".header_area").removeClass("sticky");
-                    $(".sticky .header__logo img").attr('src','https://www.awras.com/wp-content/themes/NewsAwress/assets/img/Logo.svg');
+                    $(".header__logo img").attr('src','https://www.awras.com/wp-content/themes/NewsAwress/assets/img/Logo.svg');
 
                  }
 
