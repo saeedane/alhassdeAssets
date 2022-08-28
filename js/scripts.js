@@ -161,17 +161,16 @@ function switchTweetTheme(currentTheme,targetTheme) {
 
                  if($(window).scrollTop() >= 5){
 
+
                     $(".header_area").addClass("sticky");
-                    $(".sticky .header__logo img").attr('src','https://cdn.alhassadelyoumi.dz/wp-content/uploads/2021/06/El-Hassad-el-yawmi-Logotype-300x233.png');
-                    $(".sticky .header__logo img").attr('class','mb-3 mt-2');
-
-                     
+                    localStorage.setItem('sticky', "true")
 
 
+                
                  }else{
                     $(".header_area").removeClass("sticky");
-                    $(".header__logo img").attr('src','https://www.awras.com/wp-content/themes/NewsAwress/assets/img/Logo.svg');
-                    $(".header__logo img").attr('class','mb-0');
+                    localStorage.removeItem("sticky");
+
 
                  }
 
