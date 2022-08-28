@@ -274,6 +274,9 @@ font-family: "sadan-toshiba";color: "black";
     margin: auto 14px auto 21px;
 }
 
+
+
+
 /*add box ads */
 .addBoxContainer{
     padding: 50px 15px;
@@ -330,8 +333,13 @@ font-family: "sadan-toshiba";color: "black";
 }
 
 
-
-
+.sticky .header-bottom {
+    background: white;
+    box-shadow: 1px 1px 10px;
+}
+.sticky .header-bottom .header-content .nav-item a{
+    color: black !important;
+}
 
 
 .header-bottom .header_search{
