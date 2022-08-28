@@ -1107,6 +1107,7 @@ border-radius: 100px;
   .sidebar .card  .article__body .article__title a{
     color: white;
     font-family: 'sadan-toshiba';
+    font-size: 25px;
 }
 
   .sidebar .card  .article__body .article__title{
@@ -1114,35 +1115,7 @@ position: relative;
     display: inline-block;
     margin-bottom: 10px;
 }
-  .sidebar .card  .article__body .article__title:before {
-    position: absolute;
-    top: 0;
-    left: auto;
-    bottom: auto;
-    right:-10px;
-    width: 10px;
-    height: 10px;
-    content: '';
-    pointer-events: none;
-    border-top: 2px solid #ffffff;
-    border-right: 2px solid white;
-}
 
-
-
-  .sidebar .card  .article__body .article__title:after {
-    position: absolute;
-    top: auto;
-    left: 0;
-    bottom: 0;
-    right: auto;
-    width: 10px;
-    height: 10px;
-    content: '';
-    pointer-events: none;
-    border-bottom: 2px solid #ffffff;
-    border-left: 2px solid white;
-  }
 
 
   .sidebar .card  .article__body span{
