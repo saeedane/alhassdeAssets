@@ -1371,9 +1371,18 @@ display: flex;
     border-radius:5px;
 }
 
+
+.MostViewsContainer .items .element .news-left {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
 .MostViewsContainer .items .element .news-left a{
     font-family: 'sadan-toshiba';
     font-size: 22px;
+        margin-bottom: auto;
+
 
 }
 
