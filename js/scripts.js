@@ -155,3 +155,8 @@ function switchTweetTheme(currentTheme,targetTheme) {
 }
 });
 
+
+/* header scroll */
+  $(window).scroll(function () {
+        $(window).scrollTop() >= 5 ? $(".header_area").addClass("sticky") : $(".header_area").removeClass("sticky");
+    });
