@@ -2035,6 +2035,10 @@ body.darkV .category-newspaper .mobile_search{
 
 }
 
+.category-newspaper  .newspaper_container .sidebar_widget{
+    width: 360px;
+}
+
 
 
 /** archive article **/
