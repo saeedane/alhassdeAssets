@@ -1372,9 +1372,13 @@ display: flex;
 }
 
 .MostViewsContainer .items .element .news-left a{
-    font-family: 'alhassade';
+    font-family: 'sadan-toshiba';
     font-size: 25px;
 
+}
+
+.MostViewsContainer .items .element .news-left ul li a{
+    font-family: 'alhassade';
 }
 
 .MostViewsContainer .items .element .news-left ul{
