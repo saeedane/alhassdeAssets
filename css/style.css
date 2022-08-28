@@ -1771,7 +1771,7 @@ background-repeat: no-repeat;
 
 
 .archive__featured .featured__articles .article__item:nth-child(1) .article__body .card-title{
- font-size: 30px !important;
+ font-size: 27px !important;
 
 } 
 
@@ -1788,7 +1788,7 @@ font-size: 18px;
 
 
 .archive__featured .featured__articles .article__item .article__body .card-title{
-        font-size:27px !important;
+        font-size:21px !important;
     font-family: 'sadan-toshiba';
     margin-left: 20px;
 
