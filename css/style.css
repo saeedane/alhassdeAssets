@@ -953,6 +953,13 @@ body.darkV .banarSection{
 
 
 
+    .widgetLastNews .alhassade-thumb .thumbnail-container, .alhassade-thumb:after, .alhassade-thumb:before{
+            height: 220px !important;
+
+    }
+    
+
+
 
 .widgetLastNews .titleWidget h2,.newsWithSidebar .sidebar .titleWidget h2{
     font-family: 'Awras-Mhidi';
@@ -3848,11 +3855,6 @@ flex-direction: row-reverse;
     }
 
 
-    .widgetLastNews .alhassade-thumb .thumbnail-container, .alhassade-thumb:after, .alhassade-thumb:before{
-            height: 220px;
-
-    }
-    
     
 /* banar top */
     
