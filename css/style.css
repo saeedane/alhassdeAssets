@@ -1004,9 +1004,7 @@ display: inline-block;
     margin-bottom: 20px;
     padding: 20px;
     position: relative;
-    border-right: 1px solid#ededf1;
-    border-left: 1px solid#ededf1;
-
+  
 }
 
 .widgetLastNews .card .article__body .card-title a{
@@ -1043,6 +1041,8 @@ body.darkV .widgetLastNews .card .article__body p{
 .newsWithSidebar  .sidebar__widgets{
      margin-right: auto;
        width: 360px;
+           border-right: 1px solid#ededf1;
+    border-left: 1px solid#ededf1;
 
 }
 
