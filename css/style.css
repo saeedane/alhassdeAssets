@@ -3752,6 +3752,12 @@ body.darkV .footerContainer .nav-link{
     width: 110px !important;
     margin-top: -12px;
 }
+
+    .sticky .header-bottom .header-content .header__logo img{
+            width: 85px !important;
+
+    }
+
     .border__left:before{
         display:none;
     }
