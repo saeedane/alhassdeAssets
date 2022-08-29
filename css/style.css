@@ -896,6 +896,7 @@ z-index: 4;
 
 .banarSection{
     background-color: #ededf1;
+    padding-top: 20px;
 }
 
 .banarContainer .articles-list .article__item span{
