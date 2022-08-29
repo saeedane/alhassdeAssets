@@ -3918,7 +3918,7 @@ flex-direction: row-reverse;
 }
     
 .banarContainer  .articles-list .article__item  .article__image img{
-     height: 108px !important;
+     height: 112px !important;
        object-fit: cover;
     border-radius: 0px;
 
