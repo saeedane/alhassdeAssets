@@ -340,9 +340,13 @@ font-family: "sadan-toshiba";color: "black";
     background: white;
     box-shadow: 1px 1px 10px;
 }
+.sticky .header-bottom .header-content .nav-item a{
+    color: black !important;
+}
 .sticky .header-bottom .navMobile {
     display: none !important;
 }
+
 
 
 
