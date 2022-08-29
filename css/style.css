@@ -16,6 +16,8 @@ body{
     color: #707070;
     text-align: right;
     font-family: 'Awras-Emir';
+    background: #ededf1;
+
 }
 .container{
     max-width: 1244px !important;
