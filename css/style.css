@@ -927,6 +927,7 @@ body.darkV .banarSection{
 .banarBottom{
     width: 100%;
     position: relative;
+    padding-top: 0px !important;
 
 }
 
