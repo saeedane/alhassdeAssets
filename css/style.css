@@ -832,6 +832,7 @@ display: grid;
 
     
 .banarContainer .articles-list .article__item  .image-slider-left {
+    width: 370px;
     
     height:220px !important;
         object-fit: cover;
