@@ -3846,6 +3846,12 @@ flex-direction: row-reverse;
             font-size: 22px;
 
     }
+
+
+    .widgetLastNews .alhassade-thumb .thumbnail-container, .alhassade-thumb:after, .alhassade-thumb:before{
+            height: 220px;
+
+    }
     
     
 /* banar top */
