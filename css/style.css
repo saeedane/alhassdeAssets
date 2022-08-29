@@ -899,6 +899,11 @@ z-index: 4;
     padding-top: 20px;
 }
 
+body.darkV .banarSection{
+        background-color: #212529;
+
+}
+
 .banarContainer .articles-list .article__item span{
         font-family: 'alhassade';
         margin-bottom:10px;
