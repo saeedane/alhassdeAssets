@@ -155,7 +155,7 @@ function switchTweetTheme(currentTheme,targetTheme) {
 }
 });
 
-
+ 
 /* header scroll */
   $(window).scroll(function () {
 
@@ -169,6 +169,9 @@ function switchTweetTheme(currentTheme,targetTheme) {
                     $(" .sticky .header__left .sticky-icon").removeClass('d-none');
                     $(" .sticky .header__left .simple-icon").addClass('d-none');
 
+                    $(" .sticky .header__search .sticky-icon").removeClass('d-none');
+                    $(" .sticky .header__search .simple-icon").addClass('d-none');
+
                  }else{
                     $(".header_area").removeClass("sticky");
                     $(".header__logo img").attr('src','https://www.awras.com/wp-content/themes/NewsAwress/assets/img/Logo.svg');
@@ -177,7 +180,8 @@ function switchTweetTheme(currentTheme,targetTheme) {
                     $(" .header__social .nav  .nav-item .nav-link .simple-icon").removeClass('d-none');
                     $(" .header__left .sticky-icon").addClass('d-none');
                     $(" .header__left .simple-icon").removeClass('d-none');
-
+                    $(" .header__search .sticky-icon").removeClass('d-none');
+                    $("  .header__search .simple-icon").addClass('d-none');
 
                  }
 
