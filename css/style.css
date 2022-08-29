@@ -946,7 +946,6 @@ body.darkV .banarSection{
 .widgetLastNews {
         width: 820px;
             background: white;
-    box-shadow: 0px 0px 10px #cacaca;
 
 }
 
@@ -991,8 +990,10 @@ display: inline-block;
 .widgetLastNews {
     padding: 10px 20px;
     margin-bottom: 20px;
-    border: 1px solid#ededf1;
     position: relative;
+        border-left: 1px solid#ededf1;
+            border-right: 1px solid#ededf1;
+
 }
 
 
