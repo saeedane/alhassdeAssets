@@ -928,7 +928,6 @@ body.darkV .banarSection{
 .banarBottom{
     width: 100%;
     position: relative;
-    padding-top: 0px !important;
 
 }
 
@@ -3854,6 +3853,8 @@ body.darkV .footerContainer .nav-link{
     .widgetLastNews{
         width:100%;
         margin-bottom:15px;
+            border: 0;
+
 
     
     }
