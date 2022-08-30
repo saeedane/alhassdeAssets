@@ -172,6 +172,9 @@ function switchTweetTheme(currentTheme,targetTheme) {
                     $(" .sticky .header__search .sticky-icon").removeClass('d-none');
                     $(" .sticky .header__search .simple-icon").addClass('d-none');
 
+                    $(" .sticky .header__layout .sticky-icon").removeClass('d-none');
+                    $(" .sticky .header__layout .simple-icon").addClass('d-none');
+ 
                  }else{
                     $(".header_area").removeClass("sticky");
                     $(".header__logo img").attr('src','https://www.awras.com/wp-content/themes/NewsAwress/assets/img/Logo.svg');
@@ -182,6 +185,8 @@ function switchTweetTheme(currentTheme,targetTheme) {
                     $(".header__left .simple-icon").removeClass('d-none');
                     $(".header__search .sticky-icon").addClass('d-none');
                     $(".header__search .simple-icon").removeClass('d-none');
+                    $(".header__layout .sticky-icon").addClass('d-none');
+                    $(".header__layout .simple-icon").removeClass('d-none');
 
                  }
 
