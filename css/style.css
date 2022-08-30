@@ -896,7 +896,7 @@ z-index: 4;
 
 
 .banarSection{
-    background-color: #ededf1;
+    background-image: linear-gradient(#ededf1, transparent);
     padding-top: 20px;
 }
 
