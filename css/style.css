@@ -3339,6 +3339,11 @@ body.darkV .sidebar_widget .mostReadedSide .tab-content{
 
 }
 
+body.darkV .newsWithSidebar .sidebar .titleWidget, body.darkV .widgetLastNews .titleWidget{
+        border-bottom: 2px solid #494949 !important;
+
+}
+
 /* sidebar dark mode */
 
 body.darkV .titleWidget:before{
