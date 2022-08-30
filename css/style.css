@@ -3255,7 +3255,9 @@ body.darkV .header-bottom  {
 
 }
 
-
+body.darkV  .sticky .header-bottom .header-content .nav-item a{
+    color: white !important;
+}
 
 body.darkV h1 a,body.darkV .titleWidget h2, body.darkV h4 a,body.darkV .card-title {
     color: #f7f7f9 !important;
