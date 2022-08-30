@@ -3251,6 +3251,7 @@ body.darkV .banarContainer .articles-list .article__item .card-text{
 
 body.darkV .header-bottom  {
     background-color: #313030 !important;
+    box-shadow: 0px 0px 10px #0c0c0c;
 
 }
 
