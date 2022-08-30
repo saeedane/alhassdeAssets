@@ -3329,9 +3329,10 @@ body.darkV .newsWithSidebar .sidebar{
 
 }
 
-body.darkV .newsWithSidebar .sidebar_widget{
+body.darkV .newsWithSidebar .sidebar__widgets{
     border: 0px !important;
 }
+
 
 body.darkV .sidebar_widget .mostReadedSide .tab-content{
         border-top: 1px solid#505050;
