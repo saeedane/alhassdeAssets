@@ -3322,7 +3322,7 @@ body.darkV .sidebar_widget .mostReadedSide{
     margin-bottom: 20px;
 }
 
-body.darkV .newsWithSidebar .sidebar{
+body.darkV .newsWithSidebar .sidebar,body.darkV .widgetLastNews{
         border: 1px #505050 solid;
     box-shadow: 1px 1px 12px #000 !important;
     border-radius: 6px;
