@@ -946,7 +946,7 @@ body.darkV .banarSection{
 
 
 .widgetLastNews {
-        width: 850px;
+        width: 830px;
             background: white;
 
 }
@@ -3322,10 +3322,7 @@ body.darkV .sidebar_widget .mostReadedSide{
     margin-bottom: 20px;
 }
 
-body.darkV .widgetLastNews{
-        width: 830px;
 
-}
 
 body.darkV .newsWithSidebar .sidebar,body.darkV .widgetLastNews{
         border: 1px #505050 solid;
