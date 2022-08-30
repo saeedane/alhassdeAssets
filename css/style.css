@@ -901,7 +901,7 @@ z-index: 4;
 }
 
 body.darkV .banarSection{
-        background-color: #212529;
+    background-image: linear-gradient(#262626, transparent);
 
 }
 
