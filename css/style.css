@@ -3951,6 +3951,7 @@ flex-direction: row-reverse;
      height: 112px !important;
        object-fit: cover;
     border-radius: 0px;
+    width: 100% !important;
 
 
     }
