@@ -961,8 +961,8 @@ body.darkV .banarSection{
 
 
 .widgetLastNews .titleWidget h2,.newsWithSidebar .sidebar .titleWidget h2{
-    font-family: 'Awras-Mhidi';
-    font-size: 25px;
+    font-size: 40px !important;
+    font-family: 'alhassadeR';
 display: inline-block;
     margin-bottom: -2px;
 
@@ -3863,9 +3863,6 @@ body.darkV .footerContainer .nav-link{
     }
 
 
-    .widgetLastNews .titleWidget h2, .newsWithSidebar .sidebar .titleWidget h2{
-        font-size: 21px !important;
-    }
 
 .widgetLastNews .card .no-gutters{
 flex-direction: row-reverse;
