@@ -3859,9 +3859,12 @@ body.darkV .footerContainer .nav-link{
         margin-bottom:15px;
             border: 0;
     padding: 5px;
-
-
     
+    }
+
+
+    .widgetLastNews .titleWidget h2, .newsWithSidebar .sidebar .titleWidget h2{
+        font-size: 21px !important;
     }
 
 .widgetLastNews .card .no-gutters{
@@ -3878,6 +3881,9 @@ flex-direction: row-reverse;
             font-size: 22px;
 
     }
+
+
+
 
 
     
