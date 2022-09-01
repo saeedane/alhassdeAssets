@@ -3757,6 +3757,15 @@ body.darkV .footerContainer .nav-link{
 @media only screen and (max-width: 767px) {
 
 
+body.darkV .widgetLastNews
+
+body.darkV .widgetLastNews{
+        border: 0px;
+    box-shadow: none;
+    border-radius: 0px;
+
+}
+
     .newsbanarLeft h3{
         font-size: 22px !important;
     }
