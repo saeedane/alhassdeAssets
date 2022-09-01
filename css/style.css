@@ -2347,8 +2347,11 @@ body.darkV  .sidebar_widget .mostReadedSide .tab-content ul .news-body .tcn{
     
 }
 
+
 .sidebar_widget .mostReadedSide .tab-content ul li:last-child {
     margin-right: auto;
+        border: 0px !important;
+
 }
 
 /*** single page style   ***/
