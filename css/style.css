@@ -338,7 +338,7 @@ font-family: "sadan-toshiba";color: "black";
 
 
 .sticky .header-bottom {
-    background: white;
+    background: #f7f7f9;
     box-shadow: 1px 1px 10px;
 }
 .sticky .header-bottom .header-content .nav-item a{
