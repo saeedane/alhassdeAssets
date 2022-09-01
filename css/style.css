@@ -3760,7 +3760,7 @@ body.darkV .footerContainer .nav-link{
 
 body.darkV .newsWithSidebar .widgetLastNews{
         border: 0px;
-    box-shadow: none;
+    box-shadow: none !important;
     border-radius: 0px;
 
 }
