@@ -825,7 +825,7 @@ display: grid;
 
 .banarContainer .articles-list .article__item:last-child{
        margin-bottom: 30px;
-       width: 600px;
+       width: 600px !important;
  
 }
 
