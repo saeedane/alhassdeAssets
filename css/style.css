@@ -2315,7 +2315,7 @@ body.darkV  .download_count{
     width: 100%;
     right: 0;
     display:flex;
-    margin-top:25px;
+    bottom: 10px;
 }
 
 
