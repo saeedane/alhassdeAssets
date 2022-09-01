@@ -2328,6 +2328,10 @@ body.darkV .sidebar_widget .mostReadedSide .tab-content ul .MostsingleNewsList{
     border-bottom: 1px solid#505050;
 }
 
+body.darkV  .sidebar_widget .mostReadedSide .tab-content ul .news-body .tcn{
+    color: #6c757d;
+}
+
 .sidebar_widget .mostReadedSide .tab-content  ul .news-body .tc{
         font-size: 15px;
     font-family: 'Awras-Mhidi';
