@@ -2074,6 +2074,16 @@ body.darkV .category-newspaper .mobile_search{
 
 }
 
+.newspaper_container .archive__side .widgetSideTitle {
+        align-items: center;
+    flex-direction: row-reverse;
+    display: flex;
+}
+
+.newspaper_container .archive__side .widgetSideTitle  .sort-option{
+    margin-right:21px ;
+}
+
 
 .category-newspaper .article__list  .btn-download{
         background-color: #000000;
