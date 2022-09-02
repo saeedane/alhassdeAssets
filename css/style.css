@@ -3183,12 +3183,16 @@ font-family: 'sadan-toshiba';
     
 }
 
-.footerContainer .footerWidgetRight .widgetContList .footer__block:nth-child(2) .quickLinks {
+.footerContainer .footerWidgetRight .widgetContList .footer__block:nth-child(2) .quickLinks  a{
     font-family: 'sadan-toshiba';
     padding-right: 0;
     font-size: 18px;
     text-align: center;
+            color: #c0c0c3;
+
 }
+
+
     
 .footerContainer .footerWidgetRight .widgetContList .footer__block:nth-child(3) p {
         font-size: 20px;
