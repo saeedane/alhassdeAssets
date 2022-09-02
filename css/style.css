@@ -846,7 +846,9 @@ display: grid;
 font-size:24px;
 }
 
-
+.banarContainer .articles-list .article__item .article__body{
+    margin-top: 8px;
+}
 
 
 .banarContainer .articles-list .article__item:nth-child(2){
