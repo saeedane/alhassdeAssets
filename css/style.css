@@ -3120,7 +3120,7 @@ padding: 2px;
     width: 197px;
     height: auto;
     margin-bottom: 20px;
-    border-right: 1px solid#e5e5e5;
+    border-right: 1px solid#505050;
 
 }
 
@@ -3149,6 +3149,7 @@ display: flex;
 .footerContainer .footer__items .footerWidgetLeft .widgetContList .footer__block:nth-child(3){
         border-left: 1px solid#e5e5e5;
         margin-right: auto;
+
 
 }
 .footerContainer .footer__items .footerWidgetLeft .widgetContList .footer__block:last-child {
