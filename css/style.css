@@ -3790,7 +3790,9 @@ body.darkV .footerContainer .nav-link{
 }
 
 @media only screen and (max-width: 767px) {
-
+.page-search .summary__query{
+    font-size: 21px;
+}
 
 
 body.darkV .newsWithSidebar .widgetLastNews{
