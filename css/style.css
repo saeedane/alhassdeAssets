@@ -3979,6 +3979,7 @@ flex-direction: row-reverse;
     .banarContainer .articles-list .article__item .card{
         max-width:100% !important;
     margin-left: 0px;
+    background: transparent !important;
 
 
         
