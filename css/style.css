@@ -3114,7 +3114,7 @@ padding: 2px;
 
 /* custom section footer */
 .footerContainer{
-    background-color: #ededf1;
+    background-color: #000000;
 }
 .footerContainer  .footer__items .footerWidgetLeft .widgetContList  .footer__block{
     width: 197px;
@@ -3167,7 +3167,9 @@ display: flex;
 
  .footer__items .footerWidgetLeft .widgetContList .footer__block  a{
 font-family: 'sadan-toshiba';
-    font-size: 21px;     
+    font-size: 20px;  
+        color: #c0c0c3;
+   
 
 }
 .footerContainer .footer__items .footerWidgetLeft .widgetContList .footer__block .widgetText .quickLinks li{
