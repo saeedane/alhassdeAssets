@@ -4033,6 +4033,7 @@ flex-direction: row-reverse;
     flex: 0 0 68.333333%;
     max-width: 68.333333%;
     margin-top: 0px !important;
+    padding-right: 10px;
 }
 
 .banarContainer .articles-list .article__item .card-body a{
