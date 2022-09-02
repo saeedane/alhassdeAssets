@@ -3794,6 +3794,9 @@ body.darkV .footerContainer .nav-link{
     font-size: 21px;
 }
 
+.page-search .search-summary__options-title{
+    font-size: 18px;
+}
 
 body.darkV .newsWithSidebar .widgetLastNews{
         border: 0px;
