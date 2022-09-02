@@ -405,6 +405,15 @@ body.darkV .header-bottom .header_search .desktop_search form#mobileSearch{
 }
 
 
+
+body.darkV img.menu_bar.simple-icon{
+        display: block !important;
+
+}
+
+body.darkV img.menu_bar.sticky-icon{
+    display: none !important;
+}
 /* page search */
 
 
