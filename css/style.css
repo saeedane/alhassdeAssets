@@ -3999,12 +3999,12 @@ flex-direction: row-reverse;
 
     }
 .banarContainer  .articles-list .article__item .article__image {
-    flex: 0 0 41.666667%;
-    max-width: 41.666667%;
+    flex: 0 0 30.666667%;
+    max-width: 30.666667%;
 }
     
 .banarContainer  .articles-list .article__item  .article__image img{
-     height: 112px !important;
+     height: 85px !important;
        object-fit: cover;
     border-radius: 0px;
     width: 100% !important;
@@ -4015,8 +4015,8 @@ flex-direction: row-reverse;
 
     
 .banarContainer  .articles-list .article__item  .article__body{
-    flex: 0 0 58.333333%;
-    max-width: 58.333333%;
+    flex: 0 0 68.333333%;
+    max-width: 68.333333%;
     padding-top: 8px !important;
 }
 
