@@ -414,6 +414,18 @@ body.darkV img.menu_bar.simple-icon{
 body.darkV img.menu_bar.sticky-icon{
     display: none !important;
 }
+
+
+
+body.darkV img.search-mobile.simple-icon{
+        display: block !important;
+
+}
+
+body.darkV img.search-mobile.sticky-icon{
+    display: none !important;
+}
+
 /* page search */
 
 
