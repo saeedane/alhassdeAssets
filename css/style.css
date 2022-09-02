@@ -3196,6 +3196,10 @@ font-family: 'sadan-toshiba';
 
 }
 
+.footerContainer .footer__items .footerWidgetLeft .widgetContList .footer__block .widgetText .nav{
+        justify-content: center;
+    }
+
 
 /* code dark mode */
 
