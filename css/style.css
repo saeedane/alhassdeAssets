@@ -3798,6 +3798,12 @@ body.darkV .footerContainer .nav-link{
     font-size: 18px;
 }
 
+.page-search .search-summary__select select{
+        width: 70px;
+    font-size: 15px;
+
+}
+
 body.darkV .newsWithSidebar .widgetLastNews{
         border: 0px;
     box-shadow: none !important;
