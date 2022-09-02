@@ -3147,7 +3147,7 @@ display: flex;
 
 
 .footerContainer .footer__items .footerWidgetLeft .widgetContList .footer__block:nth-child(3){
-    border-right: 1px solid#505050;
+    border-left: 1px solid#505050;
         margin-right: auto;
 
 
