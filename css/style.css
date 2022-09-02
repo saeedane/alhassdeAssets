@@ -4517,7 +4517,7 @@ border-radius: 0px;
 
 
 .footerContainer .footer__items .footerWidgetLeft .widgetContList .footer__block:nth-child(3) {
-            border-right: 1px solid#e5e5e5;
+            border-right: 1px solid#505050;
     border-left: 0;
 
     
@@ -4525,7 +4525,7 @@ border-radius: 0px;
     
     
     .footerContainer .footer__items .footerWidgetLeft .widgetContList .footer__block:nth-child(2){
-            border-right: 1px solid#e5e5e5;
+    border-right: 1px solid#505050;
 
     }
     
