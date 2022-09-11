@@ -4152,6 +4152,7 @@ height: 250px !important;
 .archive__container .archive__side .archiveContList .card .thumbnail-container>img, .page-search .archive__side .archiveContList .card .thumbnail-container>img{
 
 position: relative !important;
+height: 220px !important;
 }
 
 
