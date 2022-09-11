@@ -4056,6 +4056,7 @@ flex-direction: row-reverse;
     }
    .banarContainer .articles-list .article__item:nth-child(4) .card .card-img-top, .banarContainer .articles-list .article__item:nth-child(5) .card .card-img-top{
             height: 250px;
+            width: 100% !important;
 
     }
 .banarContainer  .articles-list .article__item .article__image {
@@ -4724,7 +4725,7 @@ body.darkV .category-video .article__list .article__item .newsbanarTop{
 
 
 .banarContainer .articles-list .article__item:nth-child(4) .card .card-img-top, .banarContainer .articles-list .article__item:nth-child(5) .card .card-img-top {
-    width:600px!important;
+    width:600px;
 }
 
 .widgetLastNews{
