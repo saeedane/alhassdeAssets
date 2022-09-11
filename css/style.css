@@ -1122,17 +1122,7 @@ margin-left: 7px;
     }
 
 
-.newsWithSidebar .sidebar:nth-child(7) .titleWidget:before{
-   width: 40px;
-    background: url(//www.awras.com/static/icons/feather.svg);
-    content: "";
-    left: 0px;
-    position: absolute;
-    height: 40px;
-    top: 0px;
-    background-repeat: no-repeat !important;
-    background-size: contain;
-}
+
 
 .newsWithSidebar .sidebar:nth-child(6) .titleWidget h2:before
 
