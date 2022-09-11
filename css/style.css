@@ -4155,7 +4155,14 @@ position: relative !important;
 height: 220px !important;
 }
 
+.archive__container .archive__side .card .article__body p{
+    font-size: 17px;
+}
 
+
+.archive__container .archive__side .card-title{
+    font-size: 23px;
+}
     
 /* section category  */
     
