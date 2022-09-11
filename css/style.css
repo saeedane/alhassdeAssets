@@ -3804,10 +3804,6 @@ body.darkV .footerContainer .nav-link{
 }
 
 @media only screen and (max-width: 767px) {
-.banarContainer .articles-list .article__item:nth-child(4) .card .card-img-top, .banarContainer .articles-list .article__item:nth-child(5) .card .card-img-top{
-    width: 100% !important;
-    
-}
 
 body.darkV img.menu_bar.simple-icon{
         display: block !important;
