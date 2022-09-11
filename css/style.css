@@ -4358,9 +4358,7 @@ border-radius: 0px;
      .archive__featured .featured__articles .article__item .article__body .latest_section a{
            margin-right: 0px;
       }
-       .archive__featured .featured__articles, .archive__container .article__body {
-    padding-right: 0px !important;
-         }
+   
     
     /* auther box  response  */
         
