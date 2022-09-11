@@ -4164,6 +4164,11 @@ height: 220px !important;
     font-size: 23px;
 }
     
+.archive__container .archive__side .card{
+    padding-bottom: 20px !important;
+}
+
+
 /* section category  */
     
     .sectionCategory .categoryContianer .card-category{
