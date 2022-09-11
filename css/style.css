@@ -3263,7 +3263,12 @@ body.darkV {
 }
 
 
-body.darkV .newsWithSidebar .sidebar:nth-child(5) .titleWidget h2 a{
+.newsWithSidebar .sidebar:nth-child(7) .card:nth-child(8){
+    border:0px;
+}
+
+body.darkV .newsWithSidebar .sidebar:nth-child(5) .titleWidget h2 a,
+body.darkV .newsWithSidebar .sidebar:nth-child(7) a{
 
 color: white;
 }
@@ -3965,7 +3970,31 @@ flex-direction: row-reverse;
 
 
 
+/* customize for mobile  */
 
+.banarContainer .articles-list .article__item:nth-child(4) .card .card-img-top, .banarContainer .articles-list .article__item:nth-child(5) .card .card-img-top {
+    width: 100% !important;
+}
+    
+    
+    .post_thumbnail_pdf{
+        width:100%;
+    }
+    
+    .banarBottom .container{
+        padding:0px 15px !important;
+    }   
+    
+    
+    .banarContainer .articles-list .article__item .article__body a {
+    font-size: 18px !important;
+}
+    
+    .sectionCategoryHorizontal .widgetCategory .card-category .article-list .article__item:first-child .alhassade-thumb img ,.sectionCategoryHorizontal .widgetCategory .card-category .article-list .article__item:nth-child(2) .alhassade-thumb img{
+    height: 121px;
+            border-radius: 6px;
+
+}
 
     
 /* banar top */
@@ -4642,4 +4671,77 @@ body.darkV .thumbnail-container:after {
         background-color: var(--j-darkgrey-bg-color);
     background-image: url(https://video.jnews.io/wp-content/themes/jnews/assets/img/preloader-dark.gif);
 
+}
+
+
+/* customize css  */
+.archive__featured .featured__articles .article__item .article__body .card-title{
+    font-size:22px !important;
+}
+
+ .category-video .article__list .article__item .newsbanarTop{
+        border: 1px #e6e6e6 solid;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px#cacaca;
+}
+body.darkV .category-video .article__list .article__item .newsbanarTop{
+        border: 1px #505050 solid;
+    border-radius: 5px;
+    box-shadow: 1px 1px 12px #000;
+}
+
+.sectionCategoryWithSidebar .categoryContianer .widgetCategory .alhassade-thumb img{
+    height:171px;
+}
+
+
+.sectionCategory .categoryContianer .card-category .article__teaser img{
+    height:95px;
+}
+
+.newsWithSidebar .sidebar:nth-child(7) a {
+    color:black !important;
+    font-size:19px !important;
+}
+
+.newsWithSidebar .sidebar:nth-child(7) .alhassade-thumb img {
+    height: 85px;
+    border-radius: 6px;
+    object-fit: cover;
+}
+
+.newsWithSidebar .sidebar:nth-child(7) .text-muted
+{
+    font-size:15px;
+    font-family:'IBMPlexSansArabicR';
+    padding:0px !important;
+}
+
+.sidebar .card .article__body{
+    margin-right:0px !important;
+}
+
+.banarBottom .container{
+    padding:0px !important;
+}
+
+
+.banarContainer .articles-list .article__item:nth-child(4) .card .card-img-top, .banarContainer .articles-list .article__item:nth-child(5) .card .card-img-top {
+    width:600px!important;
+}
+
+.widgetLastNews{
+    height:100%;
+}
+
+.widgetLastNews .titleWidget:before, .sidebar .titleWidget:before {
+    width: 40px;
+    background: url(https://www.awras.com/wp-content/themes/NewsAwress/assets/img/icons/Arrows-Left.svg);
+    content: "";
+    left: 0px;
+    position: absolute;
+    height: 20px;
+    top: 10px;
+    background-repeat: no-repeat !important;
+    background-size: contain;
 }
