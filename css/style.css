@@ -1795,15 +1795,6 @@ background-repeat: no-repeat;
     height: 330px;
 }
 
-.archive__featured .featured__articles .article__item .article__body .latest_section a{
-    margin-right: auto;
-    margin-left: 40px;
-    padding-bottom:10px;
-    font-size:16px;
-        font-family: 'sadan-toshiba';
-
-    
-}
 
 
 .archive__featured .featured__articles .article__item .article__body .card-text{
