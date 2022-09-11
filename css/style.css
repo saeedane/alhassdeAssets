@@ -3974,9 +3974,7 @@ flex-direction: row-reverse;
 
 /* customize for mobile  */
 
-.banarContainer .articles-list .article__item:nth-child(4) .card .card-img-top, .banarContainer .articles-list .article__item:nth-child(5) .card .card-img-top {
-    width: 100% !important;
-}
+
     
     
     .post_thumbnail_pdf{
