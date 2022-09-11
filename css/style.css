@@ -2102,7 +2102,9 @@ body.darkV .category-newspaper .mobile_search{
 
 
 .archive__container .archive__side .card {
-    padding-bottom: 15px;
+    padding-bottom: 50px;
+        overflow: hidden;
+
 }
 
 .archive__container .archive__side .card-title {
@@ -4650,7 +4652,15 @@ border-radius: 0px;
 
 
 .archive__container .archive__side .archiveContList .card .thumbnail-container>img,.page-search .archive__side .archiveContList .card  .thumbnail-container>img{
-        min-height: 220px !important;
+          min-height: 220px !important;
+    display: block;
+    width: 100%;
+    position: absolute;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    -o-object-position: center;
+    object-position: center;
 
 }
 
