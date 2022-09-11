@@ -4162,7 +4162,7 @@ height: 250px !important;
     border-radius: 0px !important;
 }
 
-    .archive__featured .featured__articles .article__item .article__body .card-title {
+    .archive__featured .featured__articles .article__item .article__body .card-title ,  .archive__featured .featured__articles .article__item:first-child .article__body .card-title {
     font-size: 23px !important;
 }
 
