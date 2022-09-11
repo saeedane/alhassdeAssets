@@ -4160,6 +4160,8 @@ height: 250px !important;
 
 .archive__featured .featured__articles .article__item .card-img-top{
     border-radius: 0px !important;
+        margin-top: 0px !important;
+
 }
 
     .archive__featured .featured__articles .article__item .article__body .card-title ,  .archive__featured .featured__articles .article__item:first-child .article__body .card-title {
@@ -4172,6 +4174,7 @@ height: 250px !important;
 
 position: relative !important;
 height: 220px !important;
+
 }
 
 .archive__container .archive__side .card .article__body p{
