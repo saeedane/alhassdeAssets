@@ -3113,6 +3113,7 @@ padding: 2px;
 /* custom section footer */
 .footerContainer{
     background-color: #000000;
+    border-top: 2px solid#bc1521;
 }
 .footerContainer  .footer__items .footerWidgetLeft .widgetContList  .footer__block{
     width: 197px;
