@@ -4154,9 +4154,19 @@ height: 250px !important;
     border-radius: 10px;
     }
 
+    .archive__featured .featured__articles .article__item .card .article__body{
+        padding-right: 10px !important;
+    }
+
+.archive__featured .featured__articles .article__item .card-img-top{
+    border-radius: 0px !important;
+}
+
     .archive__featured .featured__articles .article__item .article__body .card-title {
     font-size: 23px !important;
 }
+
+
 
 .archive__container .archive__side .archiveContList .card .thumbnail-container>img, .page-search .archive__side .archiveContList .card .thumbnail-container>img{
 
