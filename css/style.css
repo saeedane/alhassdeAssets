@@ -4720,9 +4720,10 @@ body.darkV .category-video .article__list .article__item .newsbanarTop{
     box-shadow: 1px 1px 12px #000;
 }
 
-.sectionCategoryWithSidebar .categoryContianer .widgetCategory .alhassade-thumb img{
+.sectionCategoryWithSidebar .categoryContianer .widgetCategory .alhassade-thumb img,.sectionCategoryWithSidebar .categoryContianer .widgetCategory .alhassade-thumb .thumbnail-container:after{
     height:171px;
 }
+
 
 
 .sectionCategory .categoryContianer .card-category .article__teaser img{
