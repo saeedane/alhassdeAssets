@@ -4720,7 +4720,7 @@ body.darkV .category-video .article__list .article__item .newsbanarTop{
     box-shadow: 1px 1px 12px #000;
 }
 
-.sectionCategoryWithSidebar .categoryContianer .widgetCategory .alhassade-thumb img,.sectionCategoryWithSidebar .categoryContianer .widgetCategory .alhassade-thumb .thumbnail-container:after{
+.sectionCategoryWithSidebar .categoryContianer .widgetCategory .alhassade-thumb img,.sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item .card .alhassade-thumb .thumbnail-container:after,.sectionCategoryWithSidebar .categoryContianer .widgetCategory .alhassade-thumb .thumbnail-container:after{
     height:171px;
 }
 
