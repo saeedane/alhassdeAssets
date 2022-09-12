@@ -2098,6 +2098,13 @@ body.darkV .category-newspaper .mobile_search{
 
 }
 
+body.darkV .archive__container .archive__side .card {
+
+    border: 1px solid rgb(68 68 68);
+    box-shadow: 1px 1px 10px #000;
+
+}
+
 .archive__container .archive__side .card-title {
     font-family: 'sadan-toshiba';
 font-size: 25px;
