@@ -4156,8 +4156,13 @@ height: 250px !important;
     }
 
     .archive__featured .featured__articles .article__item .card .article__body{
-        padding-right: 20px !important;
+        padding: 20px !important;
     }
+    .archive__featured .featured__articles .article__item .card .article__body .article__date{
+        text-align: right !important;
+    }
+
+
 
 .archive__featured .featured__articles .article__item .card-img-top{
     border-radius: 0px !important;
