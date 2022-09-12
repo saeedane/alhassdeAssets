@@ -1822,7 +1822,12 @@ font-size: 18px;
     
 }
 
-
+.archive__featured .featured__articles .article__item .article__body .article__date  {
+       font-family: 'IBMPlexSansArabicR';
+    font-size: 15px;
+    color: #969aa2 !important;
+    text-align: left;
+}
 
 
 .archive__featured .featured__articles .article__item .article__body .card-title{
