@@ -189,8 +189,9 @@ function updateURLParameter(url, param, paramVal){
         const value = jQuery('#d-search').attr('data-search-value');
         const type = $(this).attr('data-type');
         const postID = $(this).attr('data-post-id');
+        var category =  jQuery(this).attr('data-category');
 
-    var data = {'action':'alhassade_live_search','query':value,'option' :optionValue,'post_type' : type,'postID':postID };
+    var data = {'action':'alhassade_live_search','query':value,'category':category,'option' :optionValue,'post_type' : type,'postID':postID };
 
 
     jQuery.post(frontendajax.ajaxurl,data, function(response) {
