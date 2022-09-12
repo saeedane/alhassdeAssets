@@ -3799,7 +3799,9 @@ body.darkV .footerContainer .nav-link{
 }
 
 @media only screen and (max-width: 767px) {
-
+.thumbnail-container.animate-lazy>img{
+    opacity: 1 !important;
+}
 body.darkV img.menu_bar.simple-icon{
         display: block !important;
 
