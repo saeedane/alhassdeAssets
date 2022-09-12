@@ -41,7 +41,8 @@ jQuery(document).ready(function(){
 
 	jQuery('.mobile_search   #search').on('keyup',function(e){
         var value = jQuery(this).val();
-
+        var category = jQuery(this).attr("data-category");
+        console.log(category);
 	    
 	var data = {'action':'alhassade_live_search','query':value,'post_type':'post'};
 
