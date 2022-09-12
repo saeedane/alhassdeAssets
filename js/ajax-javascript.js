@@ -43,7 +43,7 @@ jQuery(document).ready(function(){
         var value = jQuery(this).val();
 
 	    
-	var data = {'action':'alhassade_live_search','query':value,'post_type':'bfd_download'};
+	var data = {'action':'alhassade_live_search','query':value,'post_type':'post'};
 
 
     jQuery.post(frontendajax.ajaxurl,data, function(response) {
