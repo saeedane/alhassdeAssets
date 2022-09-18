@@ -64,7 +64,7 @@ h4 {
     line-height: 1.5;
     font-weight: 900;
     font-family: 'sadan-toshiba';
-    font-size:22px;
+    font-size:20px;
 }
 
 h5 {
@@ -1399,7 +1399,7 @@ display: flex;
 
 .MostViewsContainer .items .element .news-left a{
     font-family: 'sadan-toshiba';
-    font-size: 22px;
+    font-size: 20px;
         margin-bottom: auto;
 
 
@@ -1516,7 +1516,7 @@ margin-left: 0px;
 }
 
 .sectionCategory .categoryContianer .card-category .article-list li .article__link-small{
-         font-size: 21px;
+         font-size: 20px;
 
 }
 
@@ -1602,7 +1602,7 @@ display: flex;
 
 .sectionCategoryHorizontal .categoryContianer .card-category .article-list .article__item .card  .article__title {
     font-family: 'sadan-toshiba';
-    font-size: 21px;
+    font-size: 20px;
 
 }
 
