@@ -3943,10 +3943,13 @@ flex-direction: row-reverse;
       }
 
     .widgetLastNews .card .article__body .card-title a{
-            font-size: 20px;
+            font-size: 20px !important;
 
     }
+  .widgetLastNews .card .article__body .card-title p{
+            font-size:  15px !important;
 
+    }
 
 
 /* customize for mobile  */
