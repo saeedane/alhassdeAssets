@@ -3827,6 +3827,14 @@ body.darkV .newsWithSidebar .widgetLastNews{
 
 }
 
+.sectionCategoryWithSidebar .categoryContianer .widgetCategory .card-category .article-list .article__item .card:first-child .alhassade-thumb img{
+height: 171px !important;
+}
+.sectionCategoryWithSidebar .categoryContianer .widgetCategory .alhassade-thumb img{
+height: 121px !important;
+}
+
+
     .newsbanarLeft h3{
         font-size: 22px !important;
     }
@@ -4738,9 +4746,6 @@ body.darkV .category-video .article__list .article__item .newsbanarTop{
     height:171px;
         border-radius: 6px;
 
-}
-.sectionCategoryWithSidebar .categoryContianer .widgetCategory .alhassade-thumb img{
-height: 121px;
 }
 
 
