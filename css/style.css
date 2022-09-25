@@ -2103,7 +2103,7 @@ font-size: 23px;
 }
 
 .archive__container .archive__side  p {
-    font-family: 'IBMPlexSansArabicR';
+    font-family: 'Awras-Emir';
     color: #707070;
     font-size: 17px;
 }
@@ -2324,8 +2324,8 @@ body.darkV  .sidebar_widget .mostReadedSide .tab-content ul .news-body .tcn{
 }
 
 .sidebar_widget .mostReadedSide .tab-content  ul .news-body .tc{
-        font-size: 15px;
-    font-family: 'Awras-Mhidi';
+        font-size: 19px;
+    font-family: 'sadan-toshiba';
     color:black;
 }
 .sidebar_widget .mostReadedSide .tab-content  ul .news-body .tcn{
