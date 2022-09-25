@@ -3953,6 +3953,15 @@ flex-direction: row-reverse;
     }
 
 
+.newsWithSidebar .widgetLastNews .article__body .element a{
+    font-size: 20px !important;
+}
+
+.newsWithSidebar .widgetLastNews .article__body .element  .article__date{
+        font-size: 14px;
+
+} 
+
 /* customize for mobile  */
 
 
