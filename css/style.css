@@ -3827,9 +3827,11 @@ body.darkV .newsWithSidebar .widgetLastNews{
 
 }
 
-.sectionCategoryWithSidebar .categoryContianer .widgetCategory .card-category .article-list .article__item .card:first-child .alhassade-thumb img{
-height: 171px !important;
+.sectionCategoryWithSidebar .categoryContianer .widgetCategory .card-category .article-list .article__item:first-child .alhassade-thumb img,.sectionCategoryWithSidebar .categoryContianer .widgetCategory .card-category .article-list .article__item:last-child .alhassade-thumb img{
+    height: 171px !important;
+
 }
+
 .sectionCategoryWithSidebar .categoryContianer .widgetCategory .alhassade-thumb img{
 height: 121px !important;
 }
