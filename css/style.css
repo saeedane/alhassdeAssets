@@ -2171,6 +2171,12 @@ body.darkV  .download_count{
 
 }
 
+
+body.darkV .archive__featured .featured__articles .article__item .card{
+        box-shadow: 1px 1px 12px #000;
+
+}
+
 .archive__container   .page-item.disabled .page-link,.category-newspaper  .page-item.disabled .page-link{
     background-color: #000 !important;
     color: white !important;
