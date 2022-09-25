@@ -3946,8 +3946,9 @@ flex-direction: row-reverse;
             font-size: 20px !important;
 
     }
-  .widgetLastNews .card .article__body .card-title p{
-            font-size:  14px !important;
+
+    .widgetLastNews .card .article__body p{
+                    font-size:  15px !important;
 
     }
 
