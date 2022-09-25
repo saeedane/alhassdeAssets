@@ -3962,6 +3962,10 @@ flex-direction: row-reverse;
 
 } 
 
+.widgetLastNews .card .article__body ul{
+    padding-bottom:  0px !important;
+}
+
 /* customize for mobile  */
 
 
