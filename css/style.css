@@ -3939,7 +3939,7 @@ flex-direction: row-reverse;
 
 
       .widgetLastNews .card .article__body .card-title {
-        margin-top: 20px !important
+           padding-top: 0px !important;
       }
 
     .widgetLastNews .card .article__body .card-title a{
